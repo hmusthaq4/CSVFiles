@@ -1,0 +1,961 @@
+year,quarter,city,locality,metric,value,unit,source_url
+2005,Q1,Chennai,Anna Nagar,AvgPricePerSqft,2800,INR/sqft,https://abc.com
+2005,Q1,Chennai,Anna Nagar,TotalTransactions,120,transactions,https://abc.com
+2005,Q2,Chennai,Anna Nagar,AvgPricePerSqft,2923,INR/sqft,https://abc.com
+2005,Q2,Chennai,Anna Nagar,TotalTransactions,128,transactions,https://abc.com
+2005,Q3,Chennai,Anna Nagar,AvgPricePerSqft,3046,INR/sqft,https://abc.com
+2005,Q3,Chennai,Anna Nagar,TotalTransactions,136,transactions,https://abc.com
+2005,Q4,Chennai,Anna Nagar,AvgPricePerSqft,3168,INR/sqft,https://abc.com
+2005,Q4,Chennai,Anna Nagar,TotalTransactions,144,transactions,https://abc.com
+2006,Q1,Chennai,Anna Nagar,AvgPricePerSqft,3291,INR/sqft,https://abc.com
+2006,Q1,Chennai,Anna Nagar,TotalTransactions,152,transactions,https://abc.com
+2006,Q2,Chennai,Anna Nagar,AvgPricePerSqft,3414,INR/sqft,https://abc.com
+2006,Q2,Chennai,Anna Nagar,TotalTransactions,160,transactions,https://abc.com
+2006,Q3,Chennai,Anna Nagar,AvgPricePerSqft,3537,INR/sqft,https://abc.com
+2006,Q3,Chennai,Anna Nagar,TotalTransactions,168,transactions,https://abc.com
+2006,Q4,Chennai,Anna Nagar,AvgPricePerSqft,3659,INR/sqft,https://abc.com
+2006,Q4,Chennai,Anna Nagar,TotalTransactions,176,transactions,https://abc.com
+2007,Q1,Chennai,Anna Nagar,AvgPricePerSqft,3782,INR/sqft,https://abc.com
+2007,Q1,Chennai,Anna Nagar,TotalTransactions,184,transactions,https://abc.com
+2007,Q2,Chennai,Anna Nagar,AvgPricePerSqft,3905,INR/sqft,https://abc.com
+2007,Q2,Chennai,Anna Nagar,TotalTransactions,192,transactions,https://abc.com
+2007,Q3,Chennai,Anna Nagar,AvgPricePerSqft,4028,INR/sqft,https://abc.com
+2007,Q3,Chennai,Anna Nagar,TotalTransactions,200,transactions,https://abc.com
+2007,Q4,Chennai,Anna Nagar,AvgPricePerSqft,4151,INR/sqft,https://abc.com
+2007,Q4,Chennai,Anna Nagar,TotalTransactions,208,transactions,https://abc.com
+2008,Q1,Chennai,Anna Nagar,AvgPricePerSqft,4273,INR/sqft,https://abc.com
+2008,Q1,Chennai,Anna Nagar,TotalTransactions,216,transactions,https://abc.com
+2008,Q2,Chennai,Anna Nagar,AvgPricePerSqft,4396,INR/sqft,https://abc.com
+2008,Q2,Chennai,Anna Nagar,TotalTransactions,224,transactions,https://abc.com
+2008,Q3,Chennai,Anna Nagar,AvgPricePerSqft,4519,INR/sqft,https://abc.com
+2008,Q3,Chennai,Anna Nagar,TotalTransactions,232,transactions,https://abc.com
+2008,Q4,Chennai,Anna Nagar,AvgPricePerSqft,4642,INR/sqft,https://abc.com
+2008,Q4,Chennai,Anna Nagar,TotalTransactions,240,transactions,https://abc.com
+2009,Q1,Chennai,Anna Nagar,AvgPricePerSqft,4765,INR/sqft,https://abc.com
+2009,Q1,Chennai,Anna Nagar,TotalTransactions,248,transactions,https://abc.com
+2009,Q2,Chennai,Anna Nagar,AvgPricePerSqft,4887,INR/sqft,https://abc.com
+2009,Q2,Chennai,Anna Nagar,TotalTransactions,256,transactions,https://abc.com
+2009,Q3,Chennai,Anna Nagar,AvgPricePerSqft,5010,INR/sqft,https://abc.com
+2009,Q3,Chennai,Anna Nagar,TotalTransactions,264,transactions,https://abc.com
+2009,Q4,Chennai,Anna Nagar,AvgPricePerSqft,5133,INR/sqft,https://abc.com
+2009,Q4,Chennai,Anna Nagar,TotalTransactions,272,transactions,https://abc.com
+2010,Q1,Chennai,Anna Nagar,AvgPricePerSqft,5256,INR/sqft,https://abc.com
+2010,Q1,Chennai,Anna Nagar,TotalTransactions,279,transactions,https://abc.com
+2010,Q2,Chennai,Anna Nagar,AvgPricePerSqft,5378,INR/sqft,https://abc.com
+2010,Q2,Chennai,Anna Nagar,TotalTransactions,287,transactions,https://abc.com
+2010,Q3,Chennai,Anna Nagar,AvgPricePerSqft,5501,INR/sqft,https://abc.com
+2010,Q3,Chennai,Anna Nagar,TotalTransactions,295,transactions,https://abc.com
+2010,Q4,Chennai,Anna Nagar,AvgPricePerSqft,5624,INR/sqft,https://abc.com
+2010,Q4,Chennai,Anna Nagar,TotalTransactions,303,transactions,https://abc.com
+2011,Q1,Chennai,Anna Nagar,AvgPricePerSqft,5747,INR/sqft,https://abc.com
+2011,Q1,Chennai,Anna Nagar,TotalTransactions,311,transactions,https://abc.com
+2011,Q2,Chennai,Anna Nagar,AvgPricePerSqft,5870,INR/sqft,https://abc.com
+2011,Q2,Chennai,Anna Nagar,TotalTransactions,319,transactions,https://abc.com
+2011,Q3,Chennai,Anna Nagar,AvgPricePerSqft,5992,INR/sqft,https://abc.com
+2011,Q3,Chennai,Anna Nagar,TotalTransactions,327,transactions,https://abc.com
+2011,Q4,Chennai,Anna Nagar,AvgPricePerSqft,6115,INR/sqft,https://abc.com
+2011,Q4,Chennai,Anna Nagar,TotalTransactions,335,transactions,https://abc.com
+2012,Q1,Chennai,Anna Nagar,AvgPricePerSqft,6238,INR/sqft,https://abc.com
+2012,Q1,Chennai,Anna Nagar,TotalTransactions,343,transactions,https://abc.com
+2012,Q2,Chennai,Anna Nagar,AvgPricePerSqft,6361,INR/sqft,https://abc.com
+2012,Q2,Chennai,Anna Nagar,TotalTransactions,351,transactions,https://abc.com
+2012,Q3,Chennai,Anna Nagar,AvgPricePerSqft,6484,INR/sqft,https://abc.com
+2012,Q3,Chennai,Anna Nagar,TotalTransactions,359,transactions,https://abc.com
+2012,Q4,Chennai,Anna Nagar,AvgPricePerSqft,6606,INR/sqft,https://abc.com
+2012,Q4,Chennai,Anna Nagar,TotalTransactions,367,transactions,https://abc.com
+2013,Q1,Chennai,Anna Nagar,AvgPricePerSqft,6729,INR/sqft,https://abc.com
+2013,Q1,Chennai,Anna Nagar,TotalTransactions,375,transactions,https://abc.com
+2013,Q2,Chennai,Anna Nagar,AvgPricePerSqft,6852,INR/sqft,https://abc.com
+2013,Q2,Chennai,Anna Nagar,TotalTransactions,383,transactions,https://abc.com
+2013,Q3,Chennai,Anna Nagar,AvgPricePerSqft,6975,INR/sqft,https://abc.com
+2013,Q3,Chennai,Anna Nagar,TotalTransactions,391,transactions,https://abc.com
+2013,Q4,Chennai,Anna Nagar,AvgPricePerSqft,7097,INR/sqft,https://abc.com
+2013,Q4,Chennai,Anna Nagar,TotalTransactions,399,transactions,https://abc.com
+2014,Q1,Chennai,Anna Nagar,AvgPricePerSqft,7220,INR/sqft,https://abc.com
+2014,Q1,Chennai,Anna Nagar,TotalTransactions,407,transactions,https://abc.com
+2014,Q2,Chennai,Anna Nagar,AvgPricePerSqft,7343,INR/sqft,https://abc.com
+2014,Q2,Chennai,Anna Nagar,TotalTransactions,415,transactions,https://abc.com
+2014,Q3,Chennai,Anna Nagar,AvgPricePerSqft,7466,INR/sqft,https://abc.com
+2014,Q3,Chennai,Anna Nagar,TotalTransactions,423,transactions,https://abc.com
+2014,Q4,Chennai,Anna Nagar,AvgPricePerSqft,7589,INR/sqft,https://abc.com
+2014,Q4,Chennai,Anna Nagar,TotalTransactions,431,transactions,https://abc.com
+2015,Q1,Chennai,Anna Nagar,AvgPricePerSqft,7711,INR/sqft,https://abc.com
+2015,Q1,Chennai,Anna Nagar,TotalTransactions,439,transactions,https://abc.com
+2015,Q2,Chennai,Anna Nagar,AvgPricePerSqft,7834,INR/sqft,https://abc.com
+2015,Q2,Chennai,Anna Nagar,TotalTransactions,447,transactions,https://abc.com
+2015,Q3,Chennai,Anna Nagar,AvgPricePerSqft,7957,INR/sqft,https://abc.com
+2015,Q3,Chennai,Anna Nagar,TotalTransactions,455,transactions,https://abc.com
+2015,Q4,Chennai,Anna Nagar,AvgPricePerSqft,8080,INR/sqft,https://abc.com
+2015,Q4,Chennai,Anna Nagar,TotalTransactions,463,transactions,https://abc.com
+2016,Q1,Chennai,Anna Nagar,AvgPricePerSqft,8203,INR/sqft,https://abc.com
+2016,Q1,Chennai,Anna Nagar,TotalTransactions,471,transactions,https://abc.com
+2016,Q2,Chennai,Anna Nagar,AvgPricePerSqft,8325,INR/sqft,https://abc.com
+2016,Q2,Chennai,Anna Nagar,TotalTransactions,479,transactions,https://abc.com
+2016,Q3,Chennai,Anna Nagar,AvgPricePerSqft,8448,INR/sqft,https://abc.com
+2016,Q3,Chennai,Anna Nagar,TotalTransactions,487,transactions,https://abc.com
+2016,Q4,Chennai,Anna Nagar,AvgPricePerSqft,8571,INR/sqft,https://abc.com
+2016,Q4,Chennai,Anna Nagar,TotalTransactions,495,transactions,https://abc.com
+2017,Q1,Chennai,Anna Nagar,AvgPricePerSqft,8694,INR/sqft,https://abc.com
+2017,Q1,Chennai,Anna Nagar,TotalTransactions,503,transactions,https://abc.com
+2017,Q2,Chennai,Anna Nagar,AvgPricePerSqft,8816,INR/sqft,https://abc.com
+2017,Q2,Chennai,Anna Nagar,TotalTransactions,511,transactions,https://abc.com
+2017,Q3,Chennai,Anna Nagar,AvgPricePerSqft,8939,INR/sqft,https://abc.com
+2017,Q3,Chennai,Anna Nagar,TotalTransactions,519,transactions,https://abc.com
+2017,Q4,Chennai,Anna Nagar,AvgPricePerSqft,9062,INR/sqft,https://abc.com
+2017,Q4,Chennai,Anna Nagar,TotalTransactions,527,transactions,https://abc.com
+2018,Q1,Chennai,Anna Nagar,AvgPricePerSqft,9185,INR/sqft,https://abc.com
+2018,Q1,Chennai,Anna Nagar,TotalTransactions,535,transactions,https://abc.com
+2018,Q2,Chennai,Anna Nagar,AvgPricePerSqft,9308,INR/sqft,https://abc.com
+2018,Q2,Chennai,Anna Nagar,TotalTransactions,543,transactions,https://abc.com
+2018,Q3,Chennai,Anna Nagar,AvgPricePerSqft,9430,INR/sqft,https://abc.com
+2018,Q3,Chennai,Anna Nagar,TotalTransactions,551,transactions,https://abc.com
+2018,Q4,Chennai,Anna Nagar,AvgPricePerSqft,9553,INR/sqft,https://abc.com
+2018,Q4,Chennai,Anna Nagar,TotalTransactions,559,transactions,https://abc.com
+2019,Q1,Chennai,Anna Nagar,AvgPricePerSqft,9676,INR/sqft,https://abc.com
+2019,Q1,Chennai,Anna Nagar,TotalTransactions,567,transactions,https://abc.com
+2019,Q2,Chennai,Anna Nagar,AvgPricePerSqft,9799,INR/sqft,https://abc.com
+2019,Q2,Chennai,Anna Nagar,TotalTransactions,575,transactions,https://abc.com
+2019,Q3,Chennai,Anna Nagar,AvgPricePerSqft,9922,INR/sqft,https://abc.com
+2019,Q3,Chennai,Anna Nagar,TotalTransactions,583,transactions,https://abc.com
+2019,Q4,Chennai,Anna Nagar,AvgPricePerSqft,10044,INR/sqft,https://abc.com
+2019,Q4,Chennai,Anna Nagar,TotalTransactions,591,transactions,https://abc.com
+2020,Q1,Chennai,Anna Nagar,AvgPricePerSqft,10167,INR/sqft,https://abc.com
+2020,Q1,Chennai,Anna Nagar,TotalTransactions,598,transactions,https://abc.com
+2020,Q2,Chennai,Anna Nagar,AvgPricePerSqft,10290,INR/sqft,https://abc.com
+2020,Q2,Chennai,Anna Nagar,TotalTransactions,606,transactions,https://abc.com
+2020,Q3,Chennai,Anna Nagar,AvgPricePerSqft,10413,INR/sqft,https://abc.com
+2020,Q3,Chennai,Anna Nagar,TotalTransactions,614,transactions,https://abc.com
+2020,Q4,Chennai,Anna Nagar,AvgPricePerSqft,10535,INR/sqft,https://abc.com
+2020,Q4,Chennai,Anna Nagar,TotalTransactions,622,transactions,https://abc.com
+2021,Q1,Chennai,Anna Nagar,AvgPricePerSqft,10658,INR/sqft,https://abc.com
+2021,Q1,Chennai,Anna Nagar,TotalTransactions,630,transactions,https://abc.com
+2021,Q2,Chennai,Anna Nagar,AvgPricePerSqft,10781,INR/sqft,https://abc.com
+2021,Q2,Chennai,Anna Nagar,TotalTransactions,638,transactions,https://abc.com
+2021,Q3,Chennai,Anna Nagar,AvgPricePerSqft,10904,INR/sqft,https://abc.com
+2021,Q3,Chennai,Anna Nagar,TotalTransactions,646,transactions,https://abc.com
+2021,Q4,Chennai,Anna Nagar,AvgPricePerSqft,11027,INR/sqft,https://abc.com
+2021,Q4,Chennai,Anna Nagar,TotalTransactions,654,transactions,https://abc.com
+2022,Q1,Chennai,Anna Nagar,AvgPricePerSqft,11149,INR/sqft,https://abc.com
+2022,Q1,Chennai,Anna Nagar,TotalTransactions,662,transactions,https://abc.com
+2022,Q2,Chennai,Anna Nagar,AvgPricePerSqft,11272,INR/sqft,https://abc.com
+2022,Q2,Chennai,Anna Nagar,TotalTransactions,670,transactions,https://abc.com
+2022,Q3,Chennai,Anna Nagar,AvgPricePerSqft,11395,INR/sqft,https://abc.com
+2022,Q3,Chennai,Anna Nagar,TotalTransactions,678,transactions,https://abc.com
+2022,Q4,Chennai,Anna Nagar,AvgPricePerSqft,11518,INR/sqft,https://abc.com
+2022,Q4,Chennai,Anna Nagar,TotalTransactions,686,transactions,https://abc.com
+2023,Q1,Chennai,Anna Nagar,AvgPricePerSqft,11641,INR/sqft,https://abc.com
+2023,Q1,Chennai,Anna Nagar,TotalTransactions,694,transactions,https://abc.com
+2023,Q2,Chennai,Anna Nagar,AvgPricePerSqft,11763,INR/sqft,https://abc.com
+2023,Q2,Chennai,Anna Nagar,TotalTransactions,702,transactions,https://abc.com
+2023,Q3,Chennai,Anna Nagar,AvgPricePerSqft,11886,INR/sqft,https://abc.com
+2023,Q3,Chennai,Anna Nagar,TotalTransactions,710,transactions,https://abc.com
+2023,Q4,Chennai,Anna Nagar,AvgPricePerSqft,12009,INR/sqft,https://abc.com
+2023,Q4,Chennai,Anna Nagar,TotalTransactions,718,transactions,https://abc.com
+2024,Q1,Chennai,Anna Nagar,AvgPricePerSqft,12132,INR/sqft,https://abc.com
+2024,Q1,Chennai,Anna Nagar,TotalTransactions,726,transactions,https://abc.com
+2024,Q2,Chennai,Anna Nagar,AvgPricePerSqft,12254,INR/sqft,https://abc.com
+2024,Q2,Chennai,Anna Nagar,TotalTransactions,734,transactions,https://abc.com
+2024,Q3,Chennai,Anna Nagar,AvgPricePerSqft,12377,INR/sqft,https://abc.com
+2024,Q3,Chennai,Anna Nagar,TotalTransactions,742,transactions,https://abc.com
+2024,Q4,Chennai,Anna Nagar,AvgPricePerSqft,12500,INR/sqft,https://abc.com
+2024,Q4,Chennai,Anna Nagar,TotalTransactions,750,transactions,https://abc.com
+2005,Q1,Chennai,T Nagar,AvgPricePerSqft,3000,INR/sqft,https://abc.com
+2005,Q1,Chennai,T Nagar,TotalTransactions,140,transactions,https://abc.com
+2005,Q2,Chennai,T Nagar,AvgPricePerSqft,3127,INR/sqft,https://abc.com
+2005,Q2,Chennai,T Nagar,TotalTransactions,148,transactions,https://abc.com
+2005,Q3,Chennai,T Nagar,AvgPricePerSqft,3253,INR/sqft,https://abc.com
+2005,Q3,Chennai,T Nagar,TotalTransactions,156,transactions,https://abc.com
+2005,Q4,Chennai,T Nagar,AvgPricePerSqft,3380,INR/sqft,https://abc.com
+2005,Q4,Chennai,T Nagar,TotalTransactions,164,transactions,https://abc.com
+2006,Q1,Chennai,T Nagar,AvgPricePerSqft,3506,INR/sqft,https://abc.com
+2006,Q1,Chennai,T Nagar,TotalTransactions,172,transactions,https://abc.com
+2006,Q2,Chennai,T Nagar,AvgPricePerSqft,3633,INR/sqft,https://abc.com
+2006,Q2,Chennai,T Nagar,TotalTransactions,181,transactions,https://abc.com
+2006,Q3,Chennai,T Nagar,AvgPricePerSqft,3759,INR/sqft,https://abc.com
+2006,Q3,Chennai,T Nagar,TotalTransactions,189,transactions,https://abc.com
+2006,Q4,Chennai,T Nagar,AvgPricePerSqft,3886,INR/sqft,https://abc.com
+2006,Q4,Chennai,T Nagar,TotalTransactions,197,transactions,https://abc.com
+2007,Q1,Chennai,T Nagar,AvgPricePerSqft,4013,INR/sqft,https://abc.com
+2007,Q1,Chennai,T Nagar,TotalTransactions,205,transactions,https://abc.com
+2007,Q2,Chennai,T Nagar,AvgPricePerSqft,4139,INR/sqft,https://abc.com
+2007,Q2,Chennai,T Nagar,TotalTransactions,213,transactions,https://abc.com
+2007,Q3,Chennai,T Nagar,AvgPricePerSqft,4266,INR/sqft,https://abc.com
+2007,Q3,Chennai,T Nagar,TotalTransactions,221,transactions,https://abc.com
+2007,Q4,Chennai,T Nagar,AvgPricePerSqft,4392,INR/sqft,https://abc.com
+2007,Q4,Chennai,T Nagar,TotalTransactions,229,transactions,https://abc.com
+2008,Q1,Chennai,T Nagar,AvgPricePerSqft,4519,INR/sqft,https://abc.com
+2008,Q1,Chennai,T Nagar,TotalTransactions,237,transactions,https://abc.com
+2008,Q2,Chennai,T Nagar,AvgPricePerSqft,4646,INR/sqft,https://abc.com
+2008,Q2,Chennai,T Nagar,TotalTransactions,245,transactions,https://abc.com
+2008,Q3,Chennai,T Nagar,AvgPricePerSqft,4772,INR/sqft,https://abc.com
+2008,Q3,Chennai,T Nagar,TotalTransactions,253,transactions,https://abc.com
+2008,Q4,Chennai,T Nagar,AvgPricePerSqft,4899,INR/sqft,https://abc.com
+2008,Q4,Chennai,T Nagar,TotalTransactions,262,transactions,https://abc.com
+2009,Q1,Chennai,T Nagar,AvgPricePerSqft,5025,INR/sqft,https://abc.com
+2009,Q1,Chennai,T Nagar,TotalTransactions,270,transactions,https://abc.com
+2009,Q2,Chennai,T Nagar,AvgPricePerSqft,5152,INR/sqft,https://abc.com
+2009,Q2,Chennai,T Nagar,TotalTransactions,278,transactions,https://abc.com
+2009,Q3,Chennai,T Nagar,AvgPricePerSqft,5278,INR/sqft,https://abc.com
+2009,Q3,Chennai,T Nagar,TotalTransactions,286,transactions,https://abc.com
+2009,Q4,Chennai,T Nagar,AvgPricePerSqft,5405,INR/sqft,https://abc.com
+2009,Q4,Chennai,T Nagar,TotalTransactions,294,transactions,https://abc.com
+2010,Q1,Chennai,T Nagar,AvgPricePerSqft,5532,INR/sqft,https://abc.com
+2010,Q1,Chennai,T Nagar,TotalTransactions,302,transactions,https://abc.com
+2010,Q2,Chennai,T Nagar,AvgPricePerSqft,5658,INR/sqft,https://abc.com
+2010,Q2,Chennai,T Nagar,TotalTransactions,310,transactions,https://abc.com
+2010,Q3,Chennai,T Nagar,AvgPricePerSqft,5785,INR/sqft,https://abc.com
+2010,Q3,Chennai,T Nagar,TotalTransactions,318,transactions,https://abc.com
+2010,Q4,Chennai,T Nagar,AvgPricePerSqft,5911,INR/sqft,https://abc.com
+2010,Q4,Chennai,T Nagar,TotalTransactions,326,transactions,https://abc.com
+2011,Q1,Chennai,T Nagar,AvgPricePerSqft,6038,INR/sqft,https://abc.com
+2011,Q1,Chennai,T Nagar,TotalTransactions,334,transactions,https://abc.com
+2011,Q2,Chennai,T Nagar,AvgPricePerSqft,6165,INR/sqft,https://abc.com
+2011,Q2,Chennai,T Nagar,TotalTransactions,343,transactions,https://abc.com
+2011,Q3,Chennai,T Nagar,AvgPricePerSqft,6291,INR/sqft,https://abc.com
+2011,Q3,Chennai,T Nagar,TotalTransactions,351,transactions,https://abc.com
+2011,Q4,Chennai,T Nagar,AvgPricePerSqft,6418,INR/sqft,https://abc.com
+2011,Q4,Chennai,T Nagar,TotalTransactions,359,transactions,https://abc.com
+2012,Q1,Chennai,T Nagar,AvgPricePerSqft,6544,INR/sqft,https://abc.com
+2012,Q1,Chennai,T Nagar,TotalTransactions,367,transactions,https://abc.com
+2012,Q2,Chennai,T Nagar,AvgPricePerSqft,6671,INR/sqft,https://abc.com
+2012,Q2,Chennai,T Nagar,TotalTransactions,375,transactions,https://abc.com
+2012,Q3,Chennai,T Nagar,AvgPricePerSqft,6797,INR/sqft,https://abc.com
+2012,Q3,Chennai,T Nagar,TotalTransactions,383,transactions,https://abc.com
+2012,Q4,Chennai,T Nagar,AvgPricePerSqft,6924,INR/sqft,https://abc.com
+2012,Q4,Chennai,T Nagar,TotalTransactions,391,transactions,https://abc.com
+2013,Q1,Chennai,T Nagar,AvgPricePerSqft,7051,INR/sqft,https://abc.com
+2013,Q1,Chennai,T Nagar,TotalTransactions,399,transactions,https://abc.com
+2013,Q2,Chennai,T Nagar,AvgPricePerSqft,7177,INR/sqft,https://abc.com
+2013,Q2,Chennai,T Nagar,TotalTransactions,407,transactions,https://abc.com
+2013,Q3,Chennai,T Nagar,AvgPricePerSqft,7304,INR/sqft,https://abc.com
+2013,Q3,Chennai,T Nagar,TotalTransactions,415,transactions,https://abc.com
+2013,Q4,Chennai,T Nagar,AvgPricePerSqft,7430,INR/sqft,https://abc.com
+2013,Q4,Chennai,T Nagar,TotalTransactions,424,transactions,https://abc.com
+2014,Q1,Chennai,T Nagar,AvgPricePerSqft,7557,INR/sqft,https://abc.com
+2014,Q1,Chennai,T Nagar,TotalTransactions,432,transactions,https://abc.com
+2014,Q2,Chennai,T Nagar,AvgPricePerSqft,7684,INR/sqft,https://abc.com
+2014,Q2,Chennai,T Nagar,TotalTransactions,440,transactions,https://abc.com
+2014,Q3,Chennai,T Nagar,AvgPricePerSqft,7810,INR/sqft,https://abc.com
+2014,Q3,Chennai,T Nagar,TotalTransactions,448,transactions,https://abc.com
+2014,Q4,Chennai,T Nagar,AvgPricePerSqft,7937,INR/sqft,https://abc.com
+2014,Q4,Chennai,T Nagar,TotalTransactions,456,transactions,https://abc.com
+2015,Q1,Chennai,T Nagar,AvgPricePerSqft,8063,INR/sqft,https://abc.com
+2015,Q1,Chennai,T Nagar,TotalTransactions,464,transactions,https://abc.com
+2015,Q2,Chennai,T Nagar,AvgPricePerSqft,8190,INR/sqft,https://abc.com
+2015,Q2,Chennai,T Nagar,TotalTransactions,472,transactions,https://abc.com
+2015,Q3,Chennai,T Nagar,AvgPricePerSqft,8316,INR/sqft,https://abc.com
+2015,Q3,Chennai,T Nagar,TotalTransactions,480,transactions,https://abc.com
+2015,Q4,Chennai,T Nagar,AvgPricePerSqft,8443,INR/sqft,https://abc.com
+2015,Q4,Chennai,T Nagar,TotalTransactions,488,transactions,https://abc.com
+2016,Q1,Chennai,T Nagar,AvgPricePerSqft,8570,INR/sqft,https://abc.com
+2016,Q1,Chennai,T Nagar,TotalTransactions,496,transactions,https://abc.com
+2016,Q2,Chennai,T Nagar,AvgPricePerSqft,8696,INR/sqft,https://abc.com
+2016,Q2,Chennai,T Nagar,TotalTransactions,505,transactions,https://abc.com
+2016,Q3,Chennai,T Nagar,AvgPricePerSqft,8823,INR/sqft,https://abc.com
+2016,Q3,Chennai,T Nagar,TotalTransactions,513,transactions,https://abc.com
+2016,Q4,Chennai,T Nagar,AvgPricePerSqft,8949,INR/sqft,https://abc.com
+2016,Q4,Chennai,T Nagar,TotalTransactions,521,transactions,https://abc.com
+2017,Q1,Chennai,T Nagar,AvgPricePerSqft,9076,INR/sqft,https://abc.com
+2017,Q1,Chennai,T Nagar,TotalTransactions,529,transactions,https://abc.com
+2017,Q2,Chennai,T Nagar,AvgPricePerSqft,9203,INR/sqft,https://abc.com
+2017,Q2,Chennai,T Nagar,TotalTransactions,537,transactions,https://abc.com
+2017,Q3,Chennai,T Nagar,AvgPricePerSqft,9329,INR/sqft,https://abc.com
+2017,Q3,Chennai,T Nagar,TotalTransactions,545,transactions,https://abc.com
+2017,Q4,Chennai,T Nagar,AvgPricePerSqft,9456,INR/sqft,https://abc.com
+2017,Q4,Chennai,T Nagar,TotalTransactions,553,transactions,https://abc.com
+2018,Q1,Chennai,T Nagar,AvgPricePerSqft,9582,INR/sqft,https://abc.com
+2018,Q1,Chennai,T Nagar,TotalTransactions,561,transactions,https://abc.com
+2018,Q2,Chennai,T Nagar,AvgPricePerSqft,9709,INR/sqft,https://abc.com
+2018,Q2,Chennai,T Nagar,TotalTransactions,569,transactions,https://abc.com
+2018,Q3,Chennai,T Nagar,AvgPricePerSqft,9835,INR/sqft,https://abc.com
+2018,Q3,Chennai,T Nagar,TotalTransactions,577,transactions,https://abc.com
+2018,Q4,Chennai,T Nagar,AvgPricePerSqft,9962,INR/sqft,https://abc.com
+2018,Q4,Chennai,T Nagar,TotalTransactions,586,transactions,https://abc.com
+2019,Q1,Chennai,T Nagar,AvgPricePerSqft,10089,INR/sqft,https://abc.com
+2019,Q1,Chennai,T Nagar,TotalTransactions,594,transactions,https://abc.com
+2019,Q2,Chennai,T Nagar,AvgPricePerSqft,10215,INR/sqft,https://abc.com
+2019,Q2,Chennai,T Nagar,TotalTransactions,602,transactions,https://abc.com
+2019,Q3,Chennai,T Nagar,AvgPricePerSqft,10342,INR/sqft,https://abc.com
+2019,Q3,Chennai,T Nagar,TotalTransactions,610,transactions,https://abc.com
+2019,Q4,Chennai,T Nagar,AvgPricePerSqft,10468,INR/sqft,https://abc.com
+2019,Q4,Chennai,T Nagar,TotalTransactions,618,transactions,https://abc.com
+2020,Q1,Chennai,T Nagar,AvgPricePerSqft,10595,INR/sqft,https://abc.com
+2020,Q1,Chennai,T Nagar,TotalTransactions,626,transactions,https://abc.com
+2020,Q2,Chennai,T Nagar,AvgPricePerSqft,10722,INR/sqft,https://abc.com
+2020,Q2,Chennai,T Nagar,TotalTransactions,634,transactions,https://abc.com
+2020,Q3,Chennai,T Nagar,AvgPricePerSqft,10848,INR/sqft,https://abc.com
+2020,Q3,Chennai,T Nagar,TotalTransactions,642,transactions,https://abc.com
+2020,Q4,Chennai,T Nagar,AvgPricePerSqft,10975,INR/sqft,https://abc.com
+2020,Q4,Chennai,T Nagar,TotalTransactions,650,transactions,https://abc.com
+2021,Q1,Chennai,T Nagar,AvgPricePerSqft,11101,INR/sqft,https://abc.com
+2021,Q1,Chennai,T Nagar,TotalTransactions,658,transactions,https://abc.com
+2021,Q2,Chennai,T Nagar,AvgPricePerSqft,11228,INR/sqft,https://abc.com
+2021,Q2,Chennai,T Nagar,TotalTransactions,667,transactions,https://abc.com
+2021,Q3,Chennai,T Nagar,AvgPricePerSqft,11354,INR/sqft,https://abc.com
+2021,Q3,Chennai,T Nagar,TotalTransactions,675,transactions,https://abc.com
+2021,Q4,Chennai,T Nagar,AvgPricePerSqft,11481,INR/sqft,https://abc.com
+2021,Q4,Chennai,T Nagar,TotalTransactions,683,transactions,https://abc.com
+2022,Q1,Chennai,T Nagar,AvgPricePerSqft,11608,INR/sqft,https://abc.com
+2022,Q1,Chennai,T Nagar,TotalTransactions,691,transactions,https://abc.com
+2022,Q2,Chennai,T Nagar,AvgPricePerSqft,11734,INR/sqft,https://abc.com
+2022,Q2,Chennai,T Nagar,TotalTransactions,699,transactions,https://abc.com
+2022,Q3,Chennai,T Nagar,AvgPricePerSqft,11861,INR/sqft,https://abc.com
+2022,Q3,Chennai,T Nagar,TotalTransactions,707,transactions,https://abc.com
+2022,Q4,Chennai,T Nagar,AvgPricePerSqft,11987,INR/sqft,https://abc.com
+2022,Q4,Chennai,T Nagar,TotalTransactions,715,transactions,https://abc.com
+2023,Q1,Chennai,T Nagar,AvgPricePerSqft,12114,INR/sqft,https://abc.com
+2023,Q1,Chennai,T Nagar,TotalTransactions,723,transactions,https://abc.com
+2023,Q2,Chennai,T Nagar,AvgPricePerSqft,12241,INR/sqft,https://abc.com
+2023,Q2,Chennai,T Nagar,TotalTransactions,731,transactions,https://abc.com
+2023,Q3,Chennai,T Nagar,AvgPricePerSqft,12367,INR/sqft,https://abc.com
+2023,Q3,Chennai,T Nagar,TotalTransactions,739,transactions,https://abc.com
+2023,Q4,Chennai,T Nagar,AvgPricePerSqft,12494,INR/sqft,https://abc.com
+2023,Q4,Chennai,T Nagar,TotalTransactions,748,transactions,https://abc.com
+2024,Q1,Chennai,T Nagar,AvgPricePerSqft,12620,INR/sqft,https://abc.com
+2024,Q1,Chennai,T Nagar,TotalTransactions,756,transactions,https://abc.com
+2024,Q2,Chennai,T Nagar,AvgPricePerSqft,12747,INR/sqft,https://abc.com
+2024,Q2,Chennai,T Nagar,TotalTransactions,764,transactions,https://abc.com
+2024,Q3,Chennai,T Nagar,AvgPricePerSqft,12873,INR/sqft,https://abc.com
+2024,Q3,Chennai,T Nagar,TotalTransactions,772,transactions,https://abc.com
+2024,Q4,Chennai,T Nagar,AvgPricePerSqft,13000,INR/sqft,https://abc.com
+2024,Q4,Chennai,T Nagar,TotalTransactions,780,transactions,https://abc.com
+2005,Q1,Chennai,Velachery,AvgPricePerSqft,1800,INR/sqft,https://abc.com
+2005,Q1,Chennai,Velachery,TotalTransactions,90,transactions,https://abc.com
+2005,Q2,Chennai,Velachery,AvgPricePerSqft,1916,INR/sqft,https://abc.com
+2005,Q2,Chennai,Velachery,TotalTransactions,98,transactions,https://abc.com
+2005,Q3,Chennai,Velachery,AvgPricePerSqft,2033,INR/sqft,https://abc.com
+2005,Q3,Chennai,Velachery,TotalTransactions,105,transactions,https://abc.com
+2005,Q4,Chennai,Velachery,AvgPricePerSqft,2149,INR/sqft,https://abc.com
+2005,Q4,Chennai,Velachery,TotalTransactions,113,transactions,https://abc.com
+2006,Q1,Chennai,Velachery,AvgPricePerSqft,2266,INR/sqft,https://abc.com
+2006,Q1,Chennai,Velachery,TotalTransactions,121,transactions,https://abc.com
+2006,Q2,Chennai,Velachery,AvgPricePerSqft,2382,INR/sqft,https://abc.com
+2006,Q2,Chennai,Velachery,TotalTransactions,129,transactions,https://abc.com
+2006,Q3,Chennai,Velachery,AvgPricePerSqft,2499,INR/sqft,https://abc.com
+2006,Q3,Chennai,Velachery,TotalTransactions,136,transactions,https://abc.com
+2006,Q4,Chennai,Velachery,AvgPricePerSqft,2615,INR/sqft,https://abc.com
+2006,Q4,Chennai,Velachery,TotalTransactions,144,transactions,https://abc.com
+2007,Q1,Chennai,Velachery,AvgPricePerSqft,2732,INR/sqft,https://abc.com
+2007,Q1,Chennai,Velachery,TotalTransactions,152,transactions,https://abc.com
+2007,Q2,Chennai,Velachery,AvgPricePerSqft,2848,INR/sqft,https://abc.com
+2007,Q2,Chennai,Velachery,TotalTransactions,159,transactions,https://abc.com
+2007,Q3,Chennai,Velachery,AvgPricePerSqft,2965,INR/sqft,https://abc.com
+2007,Q3,Chennai,Velachery,TotalTransactions,167,transactions,https://abc.com
+2007,Q4,Chennai,Velachery,AvgPricePerSqft,3081,INR/sqft,https://abc.com
+2007,Q4,Chennai,Velachery,TotalTransactions,175,transactions,https://abc.com
+2008,Q1,Chennai,Velachery,AvgPricePerSqft,3197,INR/sqft,https://abc.com
+2008,Q1,Chennai,Velachery,TotalTransactions,183,transactions,https://abc.com
+2008,Q2,Chennai,Velachery,AvgPricePerSqft,3314,INR/sqft,https://abc.com
+2008,Q2,Chennai,Velachery,TotalTransactions,190,transactions,https://abc.com
+2008,Q3,Chennai,Velachery,AvgPricePerSqft,3430,INR/sqft,https://abc.com
+2008,Q3,Chennai,Velachery,TotalTransactions,198,transactions,https://abc.com
+2008,Q4,Chennai,Velachery,AvgPricePerSqft,3547,INR/sqft,https://abc.com
+2008,Q4,Chennai,Velachery,TotalTransactions,206,transactions,https://abc.com
+2009,Q1,Chennai,Velachery,AvgPricePerSqft,3663,INR/sqft,https://abc.com
+2009,Q1,Chennai,Velachery,TotalTransactions,214,transactions,https://abc.com
+2009,Q2,Chennai,Velachery,AvgPricePerSqft,3780,INR/sqft,https://abc.com
+2009,Q2,Chennai,Velachery,TotalTransactions,221,transactions,https://abc.com
+2009,Q3,Chennai,Velachery,AvgPricePerSqft,3896,INR/sqft,https://abc.com
+2009,Q3,Chennai,Velachery,TotalTransactions,229,transactions,https://abc.com
+2009,Q4,Chennai,Velachery,AvgPricePerSqft,4013,INR/sqft,https://abc.com
+2009,Q4,Chennai,Velachery,TotalTransactions,237,transactions,https://abc.com
+2010,Q1,Chennai,Velachery,AvgPricePerSqft,4129,INR/sqft,https://abc.com
+2010,Q1,Chennai,Velachery,TotalTransactions,244,transactions,https://abc.com
+2010,Q2,Chennai,Velachery,AvgPricePerSqft,4246,INR/sqft,https://abc.com
+2010,Q2,Chennai,Velachery,TotalTransactions,252,transactions,https://abc.com
+2010,Q3,Chennai,Velachery,AvgPricePerSqft,4362,INR/sqft,https://abc.com
+2010,Q3,Chennai,Velachery,TotalTransactions,260,transactions,https://abc.com
+2010,Q4,Chennai,Velachery,AvgPricePerSqft,4478,INR/sqft,https://abc.com
+2010,Q4,Chennai,Velachery,TotalTransactions,268,transactions,https://abc.com
+2011,Q1,Chennai,Velachery,AvgPricePerSqft,4595,INR/sqft,https://abc.com
+2011,Q1,Chennai,Velachery,TotalTransactions,275,transactions,https://abc.com
+2011,Q2,Chennai,Velachery,AvgPricePerSqft,4711,INR/sqft,https://abc.com
+2011,Q2,Chennai,Velachery,TotalTransactions,283,transactions,https://abc.com
+2011,Q3,Chennai,Velachery,AvgPricePerSqft,4828,INR/sqft,https://abc.com
+2011,Q3,Chennai,Velachery,TotalTransactions,291,transactions,https://abc.com
+2011,Q4,Chennai,Velachery,AvgPricePerSqft,4944,INR/sqft,https://abc.com
+2011,Q4,Chennai,Velachery,TotalTransactions,298,transactions,https://abc.com
+2012,Q1,Chennai,Velachery,AvgPricePerSqft,5061,INR/sqft,https://abc.com
+2012,Q1,Chennai,Velachery,TotalTransactions,306,transactions,https://abc.com
+2012,Q2,Chennai,Velachery,AvgPricePerSqft,5177,INR/sqft,https://abc.com
+2012,Q2,Chennai,Velachery,TotalTransactions,314,transactions,https://abc.com
+2012,Q3,Chennai,Velachery,AvgPricePerSqft,5294,INR/sqft,https://abc.com
+2012,Q3,Chennai,Velachery,TotalTransactions,322,transactions,https://abc.com
+2012,Q4,Chennai,Velachery,AvgPricePerSqft,5410,INR/sqft,https://abc.com
+2012,Q4,Chennai,Velachery,TotalTransactions,329,transactions,https://abc.com
+2013,Q1,Chennai,Velachery,AvgPricePerSqft,5527,INR/sqft,https://abc.com
+2013,Q1,Chennai,Velachery,TotalTransactions,337,transactions,https://abc.com
+2013,Q2,Chennai,Velachery,AvgPricePerSqft,5643,INR/sqft,https://abc.com
+2013,Q2,Chennai,Velachery,TotalTransactions,345,transactions,https://abc.com
+2013,Q3,Chennai,Velachery,AvgPricePerSqft,5759,INR/sqft,https://abc.com
+2013,Q3,Chennai,Velachery,TotalTransactions,353,transactions,https://abc.com
+2013,Q4,Chennai,Velachery,AvgPricePerSqft,5876,INR/sqft,https://abc.com
+2013,Q4,Chennai,Velachery,TotalTransactions,360,transactions,https://abc.com
+2014,Q1,Chennai,Velachery,AvgPricePerSqft,5992,INR/sqft,https://abc.com
+2014,Q1,Chennai,Velachery,TotalTransactions,368,transactions,https://abc.com
+2014,Q2,Chennai,Velachery,AvgPricePerSqft,6109,INR/sqft,https://abc.com
+2014,Q2,Chennai,Velachery,TotalTransactions,376,transactions,https://abc.com
+2014,Q3,Chennai,Velachery,AvgPricePerSqft,6225,INR/sqft,https://abc.com
+2014,Q3,Chennai,Velachery,TotalTransactions,383,transactions,https://abc.com
+2014,Q4,Chennai,Velachery,AvgPricePerSqft,6342,INR/sqft,https://abc.com
+2014,Q4,Chennai,Velachery,TotalTransactions,391,transactions,https://abc.com
+2015,Q1,Chennai,Velachery,AvgPricePerSqft,6458,INR/sqft,https://abc.com
+2015,Q1,Chennai,Velachery,TotalTransactions,399,transactions,https://abc.com
+2015,Q2,Chennai,Velachery,AvgPricePerSqft,6575,INR/sqft,https://abc.com
+2015,Q2,Chennai,Velachery,TotalTransactions,407,transactions,https://abc.com
+2015,Q3,Chennai,Velachery,AvgPricePerSqft,6691,INR/sqft,https://abc.com
+2015,Q3,Chennai,Velachery,TotalTransactions,414,transactions,https://abc.com
+2015,Q4,Chennai,Velachery,AvgPricePerSqft,6808,INR/sqft,https://abc.com
+2015,Q4,Chennai,Velachery,TotalTransactions,422,transactions,https://abc.com
+2016,Q1,Chennai,Velachery,AvgPricePerSqft,6924,INR/sqft,https://abc.com
+2016,Q1,Chennai,Velachery,TotalTransactions,430,transactions,https://abc.com
+2016,Q2,Chennai,Velachery,AvgPricePerSqft,7041,INR/sqft,https://abc.com
+2016,Q2,Chennai,Velachery,TotalTransactions,437,transactions,https://abc.com
+2016,Q3,Chennai,Velachery,AvgPricePerSqft,7157,INR/sqft,https://abc.com
+2016,Q3,Chennai,Velachery,TotalTransactions,445,transactions,https://abc.com
+2016,Q4,Chennai,Velachery,AvgPricePerSqft,7273,INR/sqft,https://abc.com
+2016,Q4,Chennai,Velachery,TotalTransactions,453,transactions,https://abc.com
+2017,Q1,Chennai,Velachery,AvgPricePerSqft,7390,INR/sqft,https://abc.com
+2017,Q1,Chennai,Velachery,TotalTransactions,461,transactions,https://abc.com
+2017,Q2,Chennai,Velachery,AvgPricePerSqft,7506,INR/sqft,https://abc.com
+2017,Q2,Chennai,Velachery,TotalTransactions,468,transactions,https://abc.com
+2017,Q3,Chennai,Velachery,AvgPricePerSqft,7623,INR/sqft,https://abc.com
+2017,Q3,Chennai,Velachery,TotalTransactions,476,transactions,https://abc.com
+2017,Q4,Chennai,Velachery,AvgPricePerSqft,7739,INR/sqft,https://abc.com
+2017,Q4,Chennai,Velachery,TotalTransactions,484,transactions,https://abc.com
+2018,Q1,Chennai,Velachery,AvgPricePerSqft,7856,INR/sqft,https://abc.com
+2018,Q1,Chennai,Velachery,TotalTransactions,492,transactions,https://abc.com
+2018,Q2,Chennai,Velachery,AvgPricePerSqft,7972,INR/sqft,https://abc.com
+2018,Q2,Chennai,Velachery,TotalTransactions,499,transactions,https://abc.com
+2018,Q3,Chennai,Velachery,AvgPricePerSqft,8089,INR/sqft,https://abc.com
+2018,Q3,Chennai,Velachery,TotalTransactions,507,transactions,https://abc.com
+2018,Q4,Chennai,Velachery,AvgPricePerSqft,8205,INR/sqft,https://abc.com
+2018,Q4,Chennai,Velachery,TotalTransactions,515,transactions,https://abc.com
+2019,Q1,Chennai,Velachery,AvgPricePerSqft,8322,INR/sqft,https://abc.com
+2019,Q1,Chennai,Velachery,TotalTransactions,522,transactions,https://abc.com
+2019,Q2,Chennai,Velachery,AvgPricePerSqft,8438,INR/sqft,https://abc.com
+2019,Q2,Chennai,Velachery,TotalTransactions,530,transactions,https://abc.com
+2019,Q3,Chennai,Velachery,AvgPricePerSqft,8554,INR/sqft,https://abc.com
+2019,Q3,Chennai,Velachery,TotalTransactions,538,transactions,https://abc.com
+2019,Q4,Chennai,Velachery,AvgPricePerSqft,8671,INR/sqft,https://abc.com
+2019,Q4,Chennai,Velachery,TotalTransactions,546,transactions,https://abc.com
+2020,Q1,Chennai,Velachery,AvgPricePerSqft,8787,INR/sqft,https://abc.com
+2020,Q1,Chennai,Velachery,TotalTransactions,553,transactions,https://abc.com
+2020,Q2,Chennai,Velachery,AvgPricePerSqft,8904,INR/sqft,https://abc.com
+2020,Q2,Chennai,Velachery,TotalTransactions,561,transactions,https://abc.com
+2020,Q3,Chennai,Velachery,AvgPricePerSqft,9020,INR/sqft,https://abc.com
+2020,Q3,Chennai,Velachery,TotalTransactions,569,transactions,https://abc.com
+2020,Q4,Chennai,Velachery,AvgPricePerSqft,9137,INR/sqft,https://abc.com
+2020,Q4,Chennai,Velachery,TotalTransactions,576,transactions,https://abc.com
+2021,Q1,Chennai,Velachery,AvgPricePerSqft,9253,INR/sqft,https://abc.com
+2021,Q1,Chennai,Velachery,TotalTransactions,584,transactions,https://abc.com
+2021,Q2,Chennai,Velachery,AvgPricePerSqft,9370,INR/sqft,https://abc.com
+2021,Q2,Chennai,Velachery,TotalTransactions,592,transactions,https://abc.com
+2021,Q3,Chennai,Velachery,AvgPricePerSqft,9486,INR/sqft,https://abc.com
+2021,Q3,Chennai,Velachery,TotalTransactions,600,transactions,https://abc.com
+2021,Q4,Chennai,Velachery,AvgPricePerSqft,9603,INR/sqft,https://abc.com
+2021,Q4,Chennai,Velachery,TotalTransactions,607,transactions,https://abc.com
+2022,Q1,Chennai,Velachery,AvgPricePerSqft,9719,INR/sqft,https://abc.com
+2022,Q1,Chennai,Velachery,TotalTransactions,615,transactions,https://abc.com
+2022,Q2,Chennai,Velachery,AvgPricePerSqft,9835,INR/sqft,https://abc.com
+2022,Q2,Chennai,Velachery,TotalTransactions,623,transactions,https://abc.com
+2022,Q3,Chennai,Velachery,AvgPricePerSqft,9952,INR/sqft,https://abc.com
+2022,Q3,Chennai,Velachery,TotalTransactions,631,transactions,https://abc.com
+2022,Q4,Chennai,Velachery,AvgPricePerSqft,10068,INR/sqft,https://abc.com
+2022,Q4,Chennai,Velachery,TotalTransactions,638,transactions,https://abc.com
+2023,Q1,Chennai,Velachery,AvgPricePerSqft,10185,INR/sqft,https://abc.com
+2023,Q1,Chennai,Velachery,TotalTransactions,646,transactions,https://abc.com
+2023,Q2,Chennai,Velachery,AvgPricePerSqft,10301,INR/sqft,https://abc.com
+2023,Q2,Chennai,Velachery,TotalTransactions,654,transactions,https://abc.com
+2023,Q3,Chennai,Velachery,AvgPricePerSqft,10418,INR/sqft,https://abc.com
+2023,Q3,Chennai,Velachery,TotalTransactions,661,transactions,https://abc.com
+2023,Q4,Chennai,Velachery,AvgPricePerSqft,10534,INR/sqft,https://abc.com
+2023,Q4,Chennai,Velachery,TotalTransactions,669,transactions,https://abc.com
+2024,Q1,Chennai,Velachery,AvgPricePerSqft,10651,INR/sqft,https://abc.com
+2024,Q1,Chennai,Velachery,TotalTransactions,677,transactions,https://abc.com
+2024,Q2,Chennai,Velachery,AvgPricePerSqft,10767,INR/sqft,https://abc.com
+2024,Q2,Chennai,Velachery,TotalTransactions,685,transactions,https://abc.com
+2024,Q3,Chennai,Velachery,AvgPricePerSqft,10884,INR/sqft,https://abc.com
+2024,Q3,Chennai,Velachery,TotalTransactions,692,transactions,https://abc.com
+2024,Q4,Chennai,Velachery,AvgPricePerSqft,11000,INR/sqft,https://abc.com
+2024,Q4,Chennai,Velachery,TotalTransactions,700,transactions,https://abc.com
+2005,Q1,Bangalore,Whitefield,AvgPricePerSqft,2100,INR/sqft,https://abc.com
+2005,Q1,Bangalore,Whitefield,TotalTransactions,100,transactions,https://abc.com
+2005,Q2,Bangalore,Whitefield,AvgPricePerSqft,2251,INR/sqft,https://abc.com
+2005,Q2,Bangalore,Whitefield,TotalTransactions,109,transactions,https://abc.com
+2005,Q3,Bangalore,Whitefield,AvgPricePerSqft,2401,INR/sqft,https://abc.com
+2005,Q3,Bangalore,Whitefield,TotalTransactions,118,transactions,https://abc.com
+2005,Q4,Bangalore,Whitefield,AvgPricePerSqft,2552,INR/sqft,https://abc.com
+2005,Q4,Bangalore,Whitefield,TotalTransactions,127,transactions,https://abc.com
+2006,Q1,Bangalore,Whitefield,AvgPricePerSqft,2703,INR/sqft,https://abc.com
+2006,Q1,Bangalore,Whitefield,TotalTransactions,135,transactions,https://abc.com
+2006,Q2,Bangalore,Whitefield,AvgPricePerSqft,2853,INR/sqft,https://abc.com
+2006,Q2,Bangalore,Whitefield,TotalTransactions,144,transactions,https://abc.com
+2006,Q3,Bangalore,Whitefield,AvgPricePerSqft,3004,INR/sqft,https://abc.com
+2006,Q3,Bangalore,Whitefield,TotalTransactions,153,transactions,https://abc.com
+2006,Q4,Bangalore,Whitefield,AvgPricePerSqft,3154,INR/sqft,https://abc.com
+2006,Q4,Bangalore,Whitefield,TotalTransactions,162,transactions,https://abc.com
+2007,Q1,Bangalore,Whitefield,AvgPricePerSqft,3305,INR/sqft,https://abc.com
+2007,Q1,Bangalore,Whitefield,TotalTransactions,171,transactions,https://abc.com
+2007,Q2,Bangalore,Whitefield,AvgPricePerSqft,3456,INR/sqft,https://abc.com
+2007,Q2,Bangalore,Whitefield,TotalTransactions,180,transactions,https://abc.com
+2007,Q3,Bangalore,Whitefield,AvgPricePerSqft,3606,INR/sqft,https://abc.com
+2007,Q3,Bangalore,Whitefield,TotalTransactions,189,transactions,https://abc.com
+2007,Q4,Bangalore,Whitefield,AvgPricePerSqft,3757,INR/sqft,https://abc.com
+2007,Q4,Bangalore,Whitefield,TotalTransactions,197,transactions,https://abc.com
+2008,Q1,Bangalore,Whitefield,AvgPricePerSqft,3908,INR/sqft,https://abc.com
+2008,Q1,Bangalore,Whitefield,TotalTransactions,206,transactions,https://abc.com
+2008,Q2,Bangalore,Whitefield,AvgPricePerSqft,4058,INR/sqft,https://abc.com
+2008,Q2,Bangalore,Whitefield,TotalTransactions,215,transactions,https://abc.com
+2008,Q3,Bangalore,Whitefield,AvgPricePerSqft,4209,INR/sqft,https://abc.com
+2008,Q3,Bangalore,Whitefield,TotalTransactions,224,transactions,https://abc.com
+2008,Q4,Bangalore,Whitefield,AvgPricePerSqft,4359,INR/sqft,https://abc.com
+2008,Q4,Bangalore,Whitefield,TotalTransactions,233,transactions,https://abc.com
+2009,Q1,Bangalore,Whitefield,AvgPricePerSqft,4510,INR/sqft,https://abc.com
+2009,Q1,Bangalore,Whitefield,TotalTransactions,242,transactions,https://abc.com
+2009,Q2,Bangalore,Whitefield,AvgPricePerSqft,4661,INR/sqft,https://abc.com
+2009,Q2,Bangalore,Whitefield,TotalTransactions,251,transactions,https://abc.com
+2009,Q3,Bangalore,Whitefield,AvgPricePerSqft,4811,INR/sqft,https://abc.com
+2009,Q3,Bangalore,Whitefield,TotalTransactions,259,transactions,https://abc.com
+2009,Q4,Bangalore,Whitefield,AvgPricePerSqft,4962,INR/sqft,https://abc.com
+2009,Q4,Bangalore,Whitefield,TotalTransactions,268,transactions,https://abc.com
+2010,Q1,Bangalore,Whitefield,AvgPricePerSqft,5113,INR/sqft,https://abc.com
+2010,Q1,Bangalore,Whitefield,TotalTransactions,277,transactions,https://abc.com
+2010,Q2,Bangalore,Whitefield,AvgPricePerSqft,5263,INR/sqft,https://abc.com
+2010,Q2,Bangalore,Whitefield,TotalTransactions,286,transactions,https://abc.com
+2010,Q3,Bangalore,Whitefield,AvgPricePerSqft,5414,INR/sqft,https://abc.com
+2010,Q3,Bangalore,Whitefield,TotalTransactions,295,transactions,https://abc.com
+2010,Q4,Bangalore,Whitefield,AvgPricePerSqft,5565,INR/sqft,https://abc.com
+2010,Q4,Bangalore,Whitefield,TotalTransactions,304,transactions,https://abc.com
+2011,Q1,Bangalore,Whitefield,AvgPricePerSqft,5715,INR/sqft,https://abc.com
+2011,Q1,Bangalore,Whitefield,TotalTransactions,313,transactions,https://abc.com
+2011,Q2,Bangalore,Whitefield,AvgPricePerSqft,5866,INR/sqft,https://abc.com
+2011,Q2,Bangalore,Whitefield,TotalTransactions,322,transactions,https://abc.com
+2011,Q3,Bangalore,Whitefield,AvgPricePerSqft,6016,INR/sqft,https://abc.com
+2011,Q3,Bangalore,Whitefield,TotalTransactions,330,transactions,https://abc.com
+2011,Q4,Bangalore,Whitefield,AvgPricePerSqft,6167,INR/sqft,https://abc.com
+2011,Q4,Bangalore,Whitefield,TotalTransactions,339,transactions,https://abc.com
+2012,Q1,Bangalore,Whitefield,AvgPricePerSqft,6318,INR/sqft,https://abc.com
+2012,Q1,Bangalore,Whitefield,TotalTransactions,348,transactions,https://abc.com
+2012,Q2,Bangalore,Whitefield,AvgPricePerSqft,6468,INR/sqft,https://abc.com
+2012,Q2,Bangalore,Whitefield,TotalTransactions,357,transactions,https://abc.com
+2012,Q3,Bangalore,Whitefield,AvgPricePerSqft,6619,INR/sqft,https://abc.com
+2012,Q3,Bangalore,Whitefield,TotalTransactions,366,transactions,https://abc.com
+2012,Q4,Bangalore,Whitefield,AvgPricePerSqft,6770,INR/sqft,https://abc.com
+2012,Q4,Bangalore,Whitefield,TotalTransactions,375,transactions,https://abc.com
+2013,Q1,Bangalore,Whitefield,AvgPricePerSqft,6920,INR/sqft,https://abc.com
+2013,Q1,Bangalore,Whitefield,TotalTransactions,384,transactions,https://abc.com
+2013,Q2,Bangalore,Whitefield,AvgPricePerSqft,7071,INR/sqft,https://abc.com
+2013,Q2,Bangalore,Whitefield,TotalTransactions,392,transactions,https://abc.com
+2013,Q3,Bangalore,Whitefield,AvgPricePerSqft,7222,INR/sqft,https://abc.com
+2013,Q3,Bangalore,Whitefield,TotalTransactions,401,transactions,https://abc.com
+2013,Q4,Bangalore,Whitefield,AvgPricePerSqft,7372,INR/sqft,https://abc.com
+2013,Q4,Bangalore,Whitefield,TotalTransactions,410,transactions,https://abc.com
+2014,Q1,Bangalore,Whitefield,AvgPricePerSqft,7523,INR/sqft,https://abc.com
+2014,Q1,Bangalore,Whitefield,TotalTransactions,419,transactions,https://abc.com
+2014,Q2,Bangalore,Whitefield,AvgPricePerSqft,7673,INR/sqft,https://abc.com
+2014,Q2,Bangalore,Whitefield,TotalTransactions,428,transactions,https://abc.com
+2014,Q3,Bangalore,Whitefield,AvgPricePerSqft,7824,INR/sqft,https://abc.com
+2014,Q3,Bangalore,Whitefield,TotalTransactions,437,transactions,https://abc.com
+2014,Q4,Bangalore,Whitefield,AvgPricePerSqft,7975,INR/sqft,https://abc.com
+2014,Q4,Bangalore,Whitefield,TotalTransactions,446,transactions,https://abc.com
+2015,Q1,Bangalore,Whitefield,AvgPricePerSqft,8125,INR/sqft,https://abc.com
+2015,Q1,Bangalore,Whitefield,TotalTransactions,454,transactions,https://abc.com
+2015,Q2,Bangalore,Whitefield,AvgPricePerSqft,8276,INR/sqft,https://abc.com
+2015,Q2,Bangalore,Whitefield,TotalTransactions,463,transactions,https://abc.com
+2015,Q3,Bangalore,Whitefield,AvgPricePerSqft,8427,INR/sqft,https://abc.com
+2015,Q3,Bangalore,Whitefield,TotalTransactions,472,transactions,https://abc.com
+2015,Q4,Bangalore,Whitefield,AvgPricePerSqft,8577,INR/sqft,https://abc.com
+2015,Q4,Bangalore,Whitefield,TotalTransactions,481,transactions,https://abc.com
+2016,Q1,Bangalore,Whitefield,AvgPricePerSqft,8728,INR/sqft,https://abc.com
+2016,Q1,Bangalore,Whitefield,TotalTransactions,490,transactions,https://abc.com
+2016,Q2,Bangalore,Whitefield,AvgPricePerSqft,8878,INR/sqft,https://abc.com
+2016,Q2,Bangalore,Whitefield,TotalTransactions,499,transactions,https://abc.com
+2016,Q3,Bangalore,Whitefield,AvgPricePerSqft,9029,INR/sqft,https://abc.com
+2016,Q3,Bangalore,Whitefield,TotalTransactions,508,transactions,https://abc.com
+2016,Q4,Bangalore,Whitefield,AvgPricePerSqft,9180,INR/sqft,https://abc.com
+2016,Q4,Bangalore,Whitefield,TotalTransactions,516,transactions,https://abc.com
+2017,Q1,Bangalore,Whitefield,AvgPricePerSqft,9330,INR/sqft,https://abc.com
+2017,Q1,Bangalore,Whitefield,TotalTransactions,525,transactions,https://abc.com
+2017,Q2,Bangalore,Whitefield,AvgPricePerSqft,9481,INR/sqft,https://abc.com
+2017,Q2,Bangalore,Whitefield,TotalTransactions,534,transactions,https://abc.com
+2017,Q3,Bangalore,Whitefield,AvgPricePerSqft,9632,INR/sqft,https://abc.com
+2017,Q3,Bangalore,Whitefield,TotalTransactions,543,transactions,https://abc.com
+2017,Q4,Bangalore,Whitefield,AvgPricePerSqft,9782,INR/sqft,https://abc.com
+2017,Q4,Bangalore,Whitefield,TotalTransactions,552,transactions,https://abc.com
+2018,Q1,Bangalore,Whitefield,AvgPricePerSqft,9933,INR/sqft,https://abc.com
+2018,Q1,Bangalore,Whitefield,TotalTransactions,561,transactions,https://abc.com
+2018,Q2,Bangalore,Whitefield,AvgPricePerSqft,10084,INR/sqft,https://abc.com
+2018,Q2,Bangalore,Whitefield,TotalTransactions,570,transactions,https://abc.com
+2018,Q3,Bangalore,Whitefield,AvgPricePerSqft,10234,INR/sqft,https://abc.com
+2018,Q3,Bangalore,Whitefield,TotalTransactions,578,transactions,https://abc.com
+2018,Q4,Bangalore,Whitefield,AvgPricePerSqft,10385,INR/sqft,https://abc.com
+2018,Q4,Bangalore,Whitefield,TotalTransactions,587,transactions,https://abc.com
+2019,Q1,Bangalore,Whitefield,AvgPricePerSqft,10535,INR/sqft,https://abc.com
+2019,Q1,Bangalore,Whitefield,TotalTransactions,596,transactions,https://abc.com
+2019,Q2,Bangalore,Whitefield,AvgPricePerSqft,10686,INR/sqft,https://abc.com
+2019,Q2,Bangalore,Whitefield,TotalTransactions,605,transactions,https://abc.com
+2019,Q3,Bangalore,Whitefield,AvgPricePerSqft,10837,INR/sqft,https://abc.com
+2019,Q3,Bangalore,Whitefield,TotalTransactions,614,transactions,https://abc.com
+2019,Q4,Bangalore,Whitefield,AvgPricePerSqft,10987,INR/sqft,https://abc.com
+2019,Q4,Bangalore,Whitefield,TotalTransactions,623,transactions,https://abc.com
+2020,Q1,Bangalore,Whitefield,AvgPricePerSqft,11138,INR/sqft,https://abc.com
+2020,Q1,Bangalore,Whitefield,TotalTransactions,632,transactions,https://abc.com
+2020,Q2,Bangalore,Whitefield,AvgPricePerSqft,11289,INR/sqft,https://abc.com
+2020,Q2,Bangalore,Whitefield,TotalTransactions,641,transactions,https://abc.com
+2020,Q3,Bangalore,Whitefield,AvgPricePerSqft,11439,INR/sqft,https://abc.com
+2020,Q3,Bangalore,Whitefield,TotalTransactions,649,transactions,https://abc.com
+2020,Q4,Bangalore,Whitefield,AvgPricePerSqft,11590,INR/sqft,https://abc.com
+2020,Q4,Bangalore,Whitefield,TotalTransactions,658,transactions,https://abc.com
+2021,Q1,Bangalore,Whitefield,AvgPricePerSqft,11741,INR/sqft,https://abc.com
+2021,Q1,Bangalore,Whitefield,TotalTransactions,667,transactions,https://abc.com
+2021,Q2,Bangalore,Whitefield,AvgPricePerSqft,11891,INR/sqft,https://abc.com
+2021,Q2,Bangalore,Whitefield,TotalTransactions,676,transactions,https://abc.com
+2021,Q3,Bangalore,Whitefield,AvgPricePerSqft,12042,INR/sqft,https://abc.com
+2021,Q3,Bangalore,Whitefield,TotalTransactions,685,transactions,https://abc.com
+2021,Q4,Bangalore,Whitefield,AvgPricePerSqft,12192,INR/sqft,https://abc.com
+2021,Q4,Bangalore,Whitefield,TotalTransactions,694,transactions,https://abc.com
+2022,Q1,Bangalore,Whitefield,AvgPricePerSqft,12343,INR/sqft,https://abc.com
+2022,Q1,Bangalore,Whitefield,TotalTransactions,703,transactions,https://abc.com
+2022,Q2,Bangalore,Whitefield,AvgPricePerSqft,12494,INR/sqft,https://abc.com
+2022,Q2,Bangalore,Whitefield,TotalTransactions,711,transactions,https://abc.com
+2022,Q3,Bangalore,Whitefield,AvgPricePerSqft,12644,INR/sqft,https://abc.com
+2022,Q3,Bangalore,Whitefield,TotalTransactions,720,transactions,https://abc.com
+2022,Q4,Bangalore,Whitefield,AvgPricePerSqft,12795,INR/sqft,https://abc.com
+2022,Q4,Bangalore,Whitefield,TotalTransactions,729,transactions,https://abc.com
+2023,Q1,Bangalore,Whitefield,AvgPricePerSqft,12946,INR/sqft,https://abc.com
+2023,Q1,Bangalore,Whitefield,TotalTransactions,738,transactions,https://abc.com
+2023,Q2,Bangalore,Whitefield,AvgPricePerSqft,13096,INR/sqft,https://abc.com
+2023,Q2,Bangalore,Whitefield,TotalTransactions,747,transactions,https://abc.com
+2023,Q3,Bangalore,Whitefield,AvgPricePerSqft,13247,INR/sqft,https://abc.com
+2023,Q3,Bangalore,Whitefield,TotalTransactions,756,transactions,https://abc.com
+2023,Q4,Bangalore,Whitefield,AvgPricePerSqft,13397,INR/sqft,https://abc.com
+2023,Q4,Bangalore,Whitefield,TotalTransactions,765,transactions,https://abc.com
+2024,Q1,Bangalore,Whitefield,AvgPricePerSqft,13548,INR/sqft,https://abc.com
+2024,Q1,Bangalore,Whitefield,TotalTransactions,773,transactions,https://abc.com
+2024,Q2,Bangalore,Whitefield,AvgPricePerSqft,13699,INR/sqft,https://abc.com
+2024,Q2,Bangalore,Whitefield,TotalTransactions,782,transactions,https://abc.com
+2024,Q3,Bangalore,Whitefield,AvgPricePerSqft,13849,INR/sqft,https://abc.com
+2024,Q3,Bangalore,Whitefield,TotalTransactions,791,transactions,https://abc.com
+2024,Q4,Bangalore,Whitefield,AvgPricePerSqft,14000,INR/sqft,https://abc.com
+2024,Q4,Bangalore,Whitefield,TotalTransactions,800,transactions,https://abc.com
+2005,Q1,Bangalore,Indiranagar,AvgPricePerSqft,3200,INR/sqft,https://abc.com
+2005,Q1,Bangalore,Indiranagar,TotalTransactions,130,transactions,https://abc.com
+2005,Q2,Bangalore,Indiranagar,AvgPricePerSqft,3349,INR/sqft,https://abc.com
+2005,Q2,Bangalore,Indiranagar,TotalTransactions,139,transactions,https://abc.com
+2005,Q3,Bangalore,Indiranagar,AvgPricePerSqft,3499,INR/sqft,https://abc.com
+2005,Q3,Bangalore,Indiranagar,TotalTransactions,148,transactions,https://abc.com
+2005,Q4,Bangalore,Indiranagar,AvgPricePerSqft,3648,INR/sqft,https://abc.com
+2005,Q4,Bangalore,Indiranagar,TotalTransactions,157,transactions,https://abc.com
+2006,Q1,Bangalore,Indiranagar,AvgPricePerSqft,3797,INR/sqft,https://abc.com
+2006,Q1,Bangalore,Indiranagar,TotalTransactions,166,transactions,https://abc.com
+2006,Q2,Bangalore,Indiranagar,AvgPricePerSqft,3947,INR/sqft,https://abc.com
+2006,Q2,Bangalore,Indiranagar,TotalTransactions,176,transactions,https://abc.com
+2006,Q3,Bangalore,Indiranagar,AvgPricePerSqft,4096,INR/sqft,https://abc.com
+2006,Q3,Bangalore,Indiranagar,TotalTransactions,185,transactions,https://abc.com
+2006,Q4,Bangalore,Indiranagar,AvgPricePerSqft,4246,INR/sqft,https://abc.com
+2006,Q4,Bangalore,Indiranagar,TotalTransactions,194,transactions,https://abc.com
+2007,Q1,Bangalore,Indiranagar,AvgPricePerSqft,4395,INR/sqft,https://abc.com
+2007,Q1,Bangalore,Indiranagar,TotalTransactions,203,transactions,https://abc.com
+2007,Q2,Bangalore,Indiranagar,AvgPricePerSqft,4544,INR/sqft,https://abc.com
+2007,Q2,Bangalore,Indiranagar,TotalTransactions,212,transactions,https://abc.com
+2007,Q3,Bangalore,Indiranagar,AvgPricePerSqft,4694,INR/sqft,https://abc.com
+2007,Q3,Bangalore,Indiranagar,TotalTransactions,221,transactions,https://abc.com
+2007,Q4,Bangalore,Indiranagar,AvgPricePerSqft,4843,INR/sqft,https://abc.com
+2007,Q4,Bangalore,Indiranagar,TotalTransactions,230,transactions,https://abc.com
+2008,Q1,Bangalore,Indiranagar,AvgPricePerSqft,4992,INR/sqft,https://abc.com
+2008,Q1,Bangalore,Indiranagar,TotalTransactions,239,transactions,https://abc.com
+2008,Q2,Bangalore,Indiranagar,AvgPricePerSqft,5142,INR/sqft,https://abc.com
+2008,Q2,Bangalore,Indiranagar,TotalTransactions,248,transactions,https://abc.com
+2008,Q3,Bangalore,Indiranagar,AvgPricePerSqft,5291,INR/sqft,https://abc.com
+2008,Q3,Bangalore,Indiranagar,TotalTransactions,258,transactions,https://abc.com
+2008,Q4,Bangalore,Indiranagar,AvgPricePerSqft,5441,INR/sqft,https://abc.com
+2008,Q4,Bangalore,Indiranagar,TotalTransactions,267,transactions,https://abc.com
+2009,Q1,Bangalore,Indiranagar,AvgPricePerSqft,5590,INR/sqft,https://abc.com
+2009,Q1,Bangalore,Indiranagar,TotalTransactions,276,transactions,https://abc.com
+2009,Q2,Bangalore,Indiranagar,AvgPricePerSqft,5739,INR/sqft,https://abc.com
+2009,Q2,Bangalore,Indiranagar,TotalTransactions,285,transactions,https://abc.com
+2009,Q3,Bangalore,Indiranagar,AvgPricePerSqft,5889,INR/sqft,https://abc.com
+2009,Q3,Bangalore,Indiranagar,TotalTransactions,294,transactions,https://abc.com
+2009,Q4,Bangalore,Indiranagar,AvgPricePerSqft,6038,INR/sqft,https://abc.com
+2009,Q4,Bangalore,Indiranagar,TotalTransactions,303,transactions,https://abc.com
+2010,Q1,Bangalore,Indiranagar,AvgPricePerSqft,6187,INR/sqft,https://abc.com
+2010,Q1,Bangalore,Indiranagar,TotalTransactions,312,transactions,https://abc.com
+2010,Q2,Bangalore,Indiranagar,AvgPricePerSqft,6337,INR/sqft,https://abc.com
+2010,Q2,Bangalore,Indiranagar,TotalTransactions,321,transactions,https://abc.com
+2010,Q3,Bangalore,Indiranagar,AvgPricePerSqft,6486,INR/sqft,https://abc.com
+2010,Q3,Bangalore,Indiranagar,TotalTransactions,331,transactions,https://abc.com
+2010,Q4,Bangalore,Indiranagar,AvgPricePerSqft,6635,INR/sqft,https://abc.com
+2010,Q4,Bangalore,Indiranagar,TotalTransactions,340,transactions,https://abc.com
+2011,Q1,Bangalore,Indiranagar,AvgPricePerSqft,6785,INR/sqft,https://abc.com
+2011,Q1,Bangalore,Indiranagar,TotalTransactions,349,transactions,https://abc.com
+2011,Q2,Bangalore,Indiranagar,AvgPricePerSqft,6934,INR/sqft,https://abc.com
+2011,Q2,Bangalore,Indiranagar,TotalTransactions,358,transactions,https://abc.com
+2011,Q3,Bangalore,Indiranagar,AvgPricePerSqft,7084,INR/sqft,https://abc.com
+2011,Q3,Bangalore,Indiranagar,TotalTransactions,367,transactions,https://abc.com
+2011,Q4,Bangalore,Indiranagar,AvgPricePerSqft,7233,INR/sqft,https://abc.com
+2011,Q4,Bangalore,Indiranagar,TotalTransactions,376,transactions,https://abc.com
+2012,Q1,Bangalore,Indiranagar,AvgPricePerSqft,7382,INR/sqft,https://abc.com
+2012,Q1,Bangalore,Indiranagar,TotalTransactions,385,transactions,https://abc.com
+2012,Q2,Bangalore,Indiranagar,AvgPricePerSqft,7532,INR/sqft,https://abc.com
+2012,Q2,Bangalore,Indiranagar,TotalTransactions,394,transactions,https://abc.com
+2012,Q3,Bangalore,Indiranagar,AvgPricePerSqft,7681,INR/sqft,https://abc.com
+2012,Q3,Bangalore,Indiranagar,TotalTransactions,403,transactions,https://abc.com
+2012,Q4,Bangalore,Indiranagar,AvgPricePerSqft,7830,INR/sqft,https://abc.com
+2012,Q4,Bangalore,Indiranagar,TotalTransactions,413,transactions,https://abc.com
+2013,Q1,Bangalore,Indiranagar,AvgPricePerSqft,7980,INR/sqft,https://abc.com
+2013,Q1,Bangalore,Indiranagar,TotalTransactions,422,transactions,https://abc.com
+2013,Q2,Bangalore,Indiranagar,AvgPricePerSqft,8129,INR/sqft,https://abc.com
+2013,Q2,Bangalore,Indiranagar,TotalTransactions,431,transactions,https://abc.com
+2013,Q3,Bangalore,Indiranagar,AvgPricePerSqft,8278,INR/sqft,https://abc.com
+2013,Q3,Bangalore,Indiranagar,TotalTransactions,440,transactions,https://abc.com
+2013,Q4,Bangalore,Indiranagar,AvgPricePerSqft,8428,INR/sqft,https://abc.com
+2013,Q4,Bangalore,Indiranagar,TotalTransactions,449,transactions,https://abc.com
+2014,Q1,Bangalore,Indiranagar,AvgPricePerSqft,8577,INR/sqft,https://abc.com
+2014,Q1,Bangalore,Indiranagar,TotalTransactions,458,transactions,https://abc.com
+2014,Q2,Bangalore,Indiranagar,AvgPricePerSqft,8727,INR/sqft,https://abc.com
+2014,Q2,Bangalore,Indiranagar,TotalTransactions,467,transactions,https://abc.com
+2014,Q3,Bangalore,Indiranagar,AvgPricePerSqft,8876,INR/sqft,https://abc.com
+2014,Q3,Bangalore,Indiranagar,TotalTransactions,476,transactions,https://abc.com
+2014,Q4,Bangalore,Indiranagar,AvgPricePerSqft,9025,INR/sqft,https://abc.com
+2014,Q4,Bangalore,Indiranagar,TotalTransactions,485,transactions,https://abc.com
+2015,Q1,Bangalore,Indiranagar,AvgPricePerSqft,9175,INR/sqft,https://abc.com
+2015,Q1,Bangalore,Indiranagar,TotalTransactions,495,transactions,https://abc.com
+2015,Q2,Bangalore,Indiranagar,AvgPricePerSqft,9324,INR/sqft,https://abc.com
+2015,Q2,Bangalore,Indiranagar,TotalTransactions,504,transactions,https://abc.com
+2015,Q3,Bangalore,Indiranagar,AvgPricePerSqft,9473,INR/sqft,https://abc.com
+2015,Q3,Bangalore,Indiranagar,TotalTransactions,513,transactions,https://abc.com
+2015,Q4,Bangalore,Indiranagar,AvgPricePerSqft,9623,INR/sqft,https://abc.com
+2015,Q4,Bangalore,Indiranagar,TotalTransactions,522,transactions,https://abc.com
+2016,Q1,Bangalore,Indiranagar,AvgPricePerSqft,9772,INR/sqft,https://abc.com
+2016,Q1,Bangalore,Indiranagar,TotalTransactions,531,transactions,https://abc.com
+2016,Q2,Bangalore,Indiranagar,AvgPricePerSqft,9922,INR/sqft,https://abc.com
+2016,Q2,Bangalore,Indiranagar,TotalTransactions,540,transactions,https://abc.com
+2016,Q3,Bangalore,Indiranagar,AvgPricePerSqft,10071,INR/sqft,https://abc.com
+2016,Q3,Bangalore,Indiranagar,TotalTransactions,549,transactions,https://abc.com
+2016,Q4,Bangalore,Indiranagar,AvgPricePerSqft,10220,INR/sqft,https://abc.com
+2016,Q4,Bangalore,Indiranagar,TotalTransactions,558,transactions,https://abc.com
+2017,Q1,Bangalore,Indiranagar,AvgPricePerSqft,10370,INR/sqft,https://abc.com
+2017,Q1,Bangalore,Indiranagar,TotalTransactions,567,transactions,https://abc.com
+2017,Q2,Bangalore,Indiranagar,AvgPricePerSqft,10519,INR/sqft,https://abc.com
+2017,Q2,Bangalore,Indiranagar,TotalTransactions,577,transactions,https://abc.com
+2017,Q3,Bangalore,Indiranagar,AvgPricePerSqft,10668,INR/sqft,https://abc.com
+2017,Q3,Bangalore,Indiranagar,TotalTransactions,586,transactions,https://abc.com
+2017,Q4,Bangalore,Indiranagar,AvgPricePerSqft,10818,INR/sqft,https://abc.com
+2017,Q4,Bangalore,Indiranagar,TotalTransactions,595,transactions,https://abc.com
+2018,Q1,Bangalore,Indiranagar,AvgPricePerSqft,10967,INR/sqft,https://abc.com
+2018,Q1,Bangalore,Indiranagar,TotalTransactions,604,transactions,https://abc.com
+2018,Q2,Bangalore,Indiranagar,AvgPricePerSqft,11116,INR/sqft,https://abc.com
+2018,Q2,Bangalore,Indiranagar,TotalTransactions,613,transactions,https://abc.com
+2018,Q3,Bangalore,Indiranagar,AvgPricePerSqft,11266,INR/sqft,https://abc.com
+2018,Q3,Bangalore,Indiranagar,TotalTransactions,622,transactions,https://abc.com
+2018,Q4,Bangalore,Indiranagar,AvgPricePerSqft,11415,INR/sqft,https://abc.com
+2018,Q4,Bangalore,Indiranagar,TotalTransactions,631,transactions,https://abc.com
+2019,Q1,Bangalore,Indiranagar,AvgPricePerSqft,11565,INR/sqft,https://abc.com
+2019,Q1,Bangalore,Indiranagar,TotalTransactions,640,transactions,https://abc.com
+2019,Q2,Bangalore,Indiranagar,AvgPricePerSqft,11714,INR/sqft,https://abc.com
+2019,Q2,Bangalore,Indiranagar,TotalTransactions,649,transactions,https://abc.com
+2019,Q3,Bangalore,Indiranagar,AvgPricePerSqft,11863,INR/sqft,https://abc.com
+2019,Q3,Bangalore,Indiranagar,TotalTransactions,659,transactions,https://abc.com
+2019,Q4,Bangalore,Indiranagar,AvgPricePerSqft,12013,INR/sqft,https://abc.com
+2019,Q4,Bangalore,Indiranagar,TotalTransactions,668,transactions,https://abc.com
+2020,Q1,Bangalore,Indiranagar,AvgPricePerSqft,12162,INR/sqft,https://abc.com
+2020,Q1,Bangalore,Indiranagar,TotalTransactions,677,transactions,https://abc.com
+2020,Q2,Bangalore,Indiranagar,AvgPricePerSqft,12311,INR/sqft,https://abc.com
+2020,Q2,Bangalore,Indiranagar,TotalTransactions,686,transactions,https://abc.com
+2020,Q3,Bangalore,Indiranagar,AvgPricePerSqft,12461,INR/sqft,https://abc.com
+2020,Q3,Bangalore,Indiranagar,TotalTransactions,695,transactions,https://abc.com
+2020,Q4,Bangalore,Indiranagar,AvgPricePerSqft,12610,INR/sqft,https://abc.com
+2020,Q4,Bangalore,Indiranagar,TotalTransactions,704,transactions,https://abc.com
+2021,Q1,Bangalore,Indiranagar,AvgPricePerSqft,12759,INR/sqft,https://abc.com
+2021,Q1,Bangalore,Indiranagar,TotalTransactions,713,transactions,https://abc.com
+2021,Q2,Bangalore,Indiranagar,AvgPricePerSqft,12909,INR/sqft,https://abc.com
+2021,Q2,Bangalore,Indiranagar,TotalTransactions,722,transactions,https://abc.com
+2021,Q3,Bangalore,Indiranagar,AvgPricePerSqft,13058,INR/sqft,https://abc.com
+2021,Q3,Bangalore,Indiranagar,TotalTransactions,732,transactions,https://abc.com
+2021,Q4,Bangalore,Indiranagar,AvgPricePerSqft,13208,INR/sqft,https://abc.com
+2021,Q4,Bangalore,Indiranagar,TotalTransactions,741,transactions,https://abc.com
+2022,Q1,Bangalore,Indiranagar,AvgPricePerSqft,13357,INR/sqft,https://abc.com
+2022,Q1,Bangalore,Indiranagar,TotalTransactions,750,transactions,https://abc.com
+2022,Q2,Bangalore,Indiranagar,AvgPricePerSqft,13506,INR/sqft,https://abc.com
+2022,Q2,Bangalore,Indiranagar,TotalTransactions,759,transactions,https://abc.com
+2022,Q3,Bangalore,Indiranagar,AvgPricePerSqft,13656,INR/sqft,https://abc.com
+2022,Q3,Bangalore,Indiranagar,TotalTransactions,768,transactions,https://abc.com
+2022,Q4,Bangalore,Indiranagar,AvgPricePerSqft,13805,INR/sqft,https://abc.com
+2022,Q4,Bangalore,Indiranagar,TotalTransactions,777,transactions,https://abc.com
+2023,Q1,Bangalore,Indiranagar,AvgPricePerSqft,13954,INR/sqft,https://abc.com
+2023,Q1,Bangalore,Indiranagar,TotalTransactions,786,transactions,https://abc.com
+2023,Q2,Bangalore,Indiranagar,AvgPricePerSqft,14104,INR/sqft,https://abc.com
+2023,Q2,Bangalore,Indiranagar,TotalTransactions,795,transactions,https://abc.com
+2023,Q3,Bangalore,Indiranagar,AvgPricePerSqft,14253,INR/sqft,https://abc.com
+2023,Q3,Bangalore,Indiranagar,TotalTransactions,804,transactions,https://abc.com
+2023,Q4,Bangalore,Indiranagar,AvgPricePerSqft,14403,INR/sqft,https://abc.com
+2023,Q4,Bangalore,Indiranagar,TotalTransactions,814,transactions,https://abc.com
+2024,Q1,Bangalore,Indiranagar,AvgPricePerSqft,14552,INR/sqft,https://abc.com
+2024,Q1,Bangalore,Indiranagar,TotalTransactions,823,transactions,https://abc.com
+2024,Q2,Bangalore,Indiranagar,AvgPricePerSqft,14701,INR/sqft,https://abc.com
+2024,Q2,Bangalore,Indiranagar,TotalTransactions,832,transactions,https://abc.com
+2024,Q3,Bangalore,Indiranagar,AvgPricePerSqft,14851,INR/sqft,https://abc.com
+2024,Q3,Bangalore,Indiranagar,TotalTransactions,841,transactions,https://abc.com
+2024,Q4,Bangalore,Indiranagar,AvgPricePerSqft,15000,INR/sqft,https://abc.com
+2024,Q4,Bangalore,Indiranagar,TotalTransactions,850,transactions,https://abc.com
+2005,Q1,Bangalore,Electronic City,AvgPricePerSqft,1500,INR/sqft,https://abc.com
+2005,Q1,Bangalore,Electronic City,TotalTransactions,80,transactions,https://abc.com
+2005,Q2,Bangalore,Electronic City,AvgPricePerSqft,1633,INR/sqft,https://abc.com
+2005,Q2,Bangalore,Electronic City,TotalTransactions,88,transactions,https://abc.com
+2005,Q3,Bangalore,Electronic City,AvgPricePerSqft,1766,INR/sqft,https://abc.com
+2005,Q3,Bangalore,Electronic City,TotalTransactions,97,transactions,https://abc.com
+2005,Q4,Bangalore,Electronic City,AvgPricePerSqft,1899,INR/sqft,https://abc.com
+2005,Q4,Bangalore,Electronic City,TotalTransactions,105,transactions,https://abc.com
+2006,Q1,Bangalore,Electronic City,AvgPricePerSqft,2032,INR/sqft,https://abc.com
+2006,Q1,Bangalore,Electronic City,TotalTransactions,113,transactions,https://abc.com
+2006,Q2,Bangalore,Electronic City,AvgPricePerSqft,2165,INR/sqft,https://abc.com
+2006,Q2,Bangalore,Electronic City,TotalTransactions,122,transactions,https://abc.com
+2006,Q3,Bangalore,Electronic City,AvgPricePerSqft,2297,INR/sqft,https://abc.com
+2006,Q3,Bangalore,Electronic City,TotalTransactions,130,transactions,https://abc.com
+2006,Q4,Bangalore,Electronic City,AvgPricePerSqft,2430,INR/sqft,https://abc.com
+2006,Q4,Bangalore,Electronic City,TotalTransactions,138,transactions,https://abc.com
+2007,Q1,Bangalore,Electronic City,AvgPricePerSqft,2563,INR/sqft,https://abc.com
+2007,Q1,Bangalore,Electronic City,TotalTransactions,147,transactions,https://abc.com
+2007,Q2,Bangalore,Electronic City,AvgPricePerSqft,2696,INR/sqft,https://abc.com
+2007,Q2,Bangalore,Electronic City,TotalTransactions,155,transactions,https://abc.com
+2007,Q3,Bangalore,Electronic City,AvgPricePerSqft,2829,INR/sqft,https://abc.com
+2007,Q3,Bangalore,Electronic City,TotalTransactions,164,transactions,https://abc.com
+2007,Q4,Bangalore,Electronic City,AvgPricePerSqft,2962,INR/sqft,https://abc.com
+2007,Q4,Bangalore,Electronic City,TotalTransactions,172,transactions,https://abc.com
+2008,Q1,Bangalore,Electronic City,AvgPricePerSqft,3095,INR/sqft,https://abc.com
+2008,Q1,Bangalore,Electronic City,TotalTransactions,180,transactions,https://abc.com
+2008,Q2,Bangalore,Electronic City,AvgPricePerSqft,3228,INR/sqft,https://abc.com
+2008,Q2,Bangalore,Electronic City,TotalTransactions,189,transactions,https://abc.com
+2008,Q3,Bangalore,Electronic City,AvgPricePerSqft,3361,INR/sqft,https://abc.com
+2008,Q3,Bangalore,Electronic City,TotalTransactions,197,transactions,https://abc.com
+2008,Q4,Bangalore,Electronic City,AvgPricePerSqft,3494,INR/sqft,https://abc.com
+2008,Q4,Bangalore,Electronic City,TotalTransactions,205,transactions,https://abc.com
+2009,Q1,Bangalore,Electronic City,AvgPricePerSqft,3627,INR/sqft,https://abc.com
+2009,Q1,Bangalore,Electronic City,TotalTransactions,214,transactions,https://abc.com
+2009,Q2,Bangalore,Electronic City,AvgPricePerSqft,3759,INR/sqft,https://abc.com
+2009,Q2,Bangalore,Electronic City,TotalTransactions,222,transactions,https://abc.com
+2009,Q3,Bangalore,Electronic City,AvgPricePerSqft,3892,INR/sqft,https://abc.com
+2009,Q3,Bangalore,Electronic City,TotalTransactions,230,transactions,https://abc.com
+2009,Q4,Bangalore,Electronic City,AvgPricePerSqft,4025,INR/sqft,https://abc.com
+2009,Q4,Bangalore,Electronic City,TotalTransactions,239,transactions,https://abc.com
+2010,Q1,Bangalore,Electronic City,AvgPricePerSqft,4158,INR/sqft,https://abc.com
+2010,Q1,Bangalore,Electronic City,TotalTransactions,247,transactions,https://abc.com
+2010,Q2,Bangalore,Electronic City,AvgPricePerSqft,4291,INR/sqft,https://abc.com
+2010,Q2,Bangalore,Electronic City,TotalTransactions,255,transactions,https://abc.com
+2010,Q3,Bangalore,Electronic City,AvgPricePerSqft,4424,INR/sqft,https://abc.com
+2010,Q3,Bangalore,Electronic City,TotalTransactions,264,transactions,https://abc.com
+2010,Q4,Bangalore,Electronic City,AvgPricePerSqft,4557,INR/sqft,https://abc.com
+2010,Q4,Bangalore,Electronic City,TotalTransactions,272,transactions,https://abc.com
+2011,Q1,Bangalore,Electronic City,AvgPricePerSqft,4690,INR/sqft,https://abc.com
+2011,Q1,Bangalore,Electronic City,TotalTransactions,281,transactions,https://abc.com
+2011,Q2,Bangalore,Electronic City,AvgPricePerSqft,4823,INR/sqft,https://abc.com
+2011,Q2,Bangalore,Electronic City,TotalTransactions,289,transactions,https://abc.com
+2011,Q3,Bangalore,Electronic City,AvgPricePerSqft,4956,INR/sqft,https://abc.com
+2011,Q3,Bangalore,Electronic City,TotalTransactions,297,transactions,https://abc.com
+2011,Q4,Bangalore,Electronic City,AvgPricePerSqft,5089,INR/sqft,https://abc.com
+2011,Q4,Bangalore,Electronic City,TotalTransactions,306,transactions,https://abc.com
+2012,Q1,Bangalore,Electronic City,AvgPricePerSqft,5222,INR/sqft,https://abc.com
+2012,Q1,Bangalore,Electronic City,TotalTransactions,314,transactions,https://abc.com
+2012,Q2,Bangalore,Electronic City,AvgPricePerSqft,5354,INR/sqft,https://abc.com
+2012,Q2,Bangalore,Electronic City,TotalTransactions,322,transactions,https://abc.com
+2012,Q3,Bangalore,Electronic City,AvgPricePerSqft,5487,INR/sqft,https://abc.com
+2012,Q3,Bangalore,Electronic City,TotalTransactions,331,transactions,https://abc.com
+2012,Q4,Bangalore,Electronic City,AvgPricePerSqft,5620,INR/sqft,https://abc.com
+2012,Q4,Bangalore,Electronic City,TotalTransactions,339,transactions,https://abc.com
+2013,Q1,Bangalore,Electronic City,AvgPricePerSqft,5753,INR/sqft,https://abc.com
+2013,Q1,Bangalore,Electronic City,TotalTransactions,347,transactions,https://abc.com
+2013,Q2,Bangalore,Electronic City,AvgPricePerSqft,5886,INR/sqft,https://abc.com
+2013,Q2,Bangalore,Electronic City,TotalTransactions,356,transactions,https://abc.com
+2013,Q3,Bangalore,Electronic City,AvgPricePerSqft,6019,INR/sqft,https://abc.com
+2013,Q3,Bangalore,Electronic City,TotalTransactions,364,transactions,https://abc.com
+2013,Q4,Bangalore,Electronic City,AvgPricePerSqft,6152,INR/sqft,https://abc.com
+2013,Q4,Bangalore,Electronic City,TotalTransactions,372,transactions,https://abc.com
+2014,Q1,Bangalore,Electronic City,AvgPricePerSqft,6285,INR/sqft,https://abc.com
+2014,Q1,Bangalore,Electronic City,TotalTransactions,381,transactions,https://abc.com
+2014,Q2,Bangalore,Electronic City,AvgPricePerSqft,6418,INR/sqft,https://abc.com
+2014,Q2,Bangalore,Electronic City,TotalTransactions,389,transactions,https://abc.com
+2014,Q3,Bangalore,Electronic City,AvgPricePerSqft,6551,INR/sqft,https://abc.com
+2014,Q3,Bangalore,Electronic City,TotalTransactions,397,transactions,https://abc.com
+2014,Q4,Bangalore,Electronic City,AvgPricePerSqft,6684,INR/sqft,https://abc.com
+2014,Q4,Bangalore,Electronic City,TotalTransactions,406,transactions,https://abc.com
+2015,Q1,Bangalore,Electronic City,AvgPricePerSqft,6816,INR/sqft,https://abc.com
+2015,Q1,Bangalore,Electronic City,TotalTransactions,414,transactions,https://abc.com
+2015,Q2,Bangalore,Electronic City,AvgPricePerSqft,6949,INR/sqft,https://abc.com
+2015,Q2,Bangalore,Electronic City,TotalTransactions,423,transactions,https://abc.com
+2015,Q3,Bangalore,Electronic City,AvgPricePerSqft,7082,INR/sqft,https://abc.com
+2015,Q3,Bangalore,Electronic City,TotalTransactions,431,transactions,https://abc.com
+2015,Q4,Bangalore,Electronic City,AvgPricePerSqft,7215,INR/sqft,https://abc.com
+2015,Q4,Bangalore,Electronic City,TotalTransactions,439,transactions,https://abc.com
+2016,Q1,Bangalore,Electronic City,AvgPricePerSqft,7348,INR/sqft,https://abc.com
+2016,Q1,Bangalore,Electronic City,TotalTransactions,448,transactions,https://abc.com
+2016,Q2,Bangalore,Electronic City,AvgPricePerSqft,7481,INR/sqft,https://abc.com
+2016,Q2,Bangalore,Electronic City,TotalTransactions,456,transactions,https://abc.com
+2016,Q3,Bangalore,Electronic City,AvgPricePerSqft,7614,INR/sqft,https://abc.com
+2016,Q3,Bangalore,Electronic City,TotalTransactions,464,transactions,https://abc.com
+2016,Q4,Bangalore,Electronic City,AvgPricePerSqft,7747,INR/sqft,https://abc.com
+2016,Q4,Bangalore,Electronic City,TotalTransactions,473,transactions,https://abc.com
+2017,Q1,Bangalore,Electronic City,AvgPricePerSqft,7880,INR/sqft,https://abc.com
+2017,Q1,Bangalore,Electronic City,TotalTransactions,481,transactions,https://abc.com
+2017,Q2,Bangalore,Electronic City,AvgPricePerSqft,8013,INR/sqft,https://abc.com
+2017,Q2,Bangalore,Electronic City,TotalTransactions,489,transactions,https://abc.com
+2017,Q3,Bangalore,Electronic City,AvgPricePerSqft,8146,INR/sqft,https://abc.com
+2017,Q3,Bangalore,Electronic City,TotalTransactions,498,transactions,https://abc.com
+2017,Q4,Bangalore,Electronic City,AvgPricePerSqft,8278,INR/sqft,https://abc.com
+2017,Q4,Bangalore,Electronic City,TotalTransactions,506,transactions,https://abc.com
+2018,Q1,Bangalore,Electronic City,AvgPricePerSqft,8411,INR/sqft,https://abc.com
+2018,Q1,Bangalore,Electronic City,TotalTransactions,514,transactions,https://abc.com
+2018,Q2,Bangalore,Electronic City,AvgPricePerSqft,8544,INR/sqft,https://abc.com
+2018,Q2,Bangalore,Electronic City,TotalTransactions,523,transactions,https://abc.com
+2018,Q3,Bangalore,Electronic City,AvgPricePerSqft,8677,INR/sqft,https://abc.com
+2018,Q3,Bangalore,Electronic City,TotalTransactions,531,transactions,https://abc.com
+2018,Q4,Bangalore,Electronic City,AvgPricePerSqft,8810,INR/sqft,https://abc.com
+2018,Q4,Bangalore,Electronic City,TotalTransactions,539,transactions,https://abc.com
+2019,Q1,Bangalore,Electronic City,AvgPricePerSqft,8943,INR/sqft,https://abc.com
+2019,Q1,Bangalore,Electronic City,TotalTransactions,548,transactions,https://abc.com
+2019,Q2,Bangalore,Electronic City,AvgPricePerSqft,9076,INR/sqft,https://abc.com
+2019,Q2,Bangalore,Electronic City,TotalTransactions,556,transactions,https://abc.com
+2019,Q3,Bangalore,Electronic City,AvgPricePerSqft,9209,INR/sqft,https://abc.com
+2019,Q3,Bangalore,Electronic City,TotalTransactions,565,transactions,https://abc.com
+2019,Q4,Bangalore,Electronic City,AvgPricePerSqft,9342,INR/sqft,https://abc.com
+2019,Q4,Bangalore,Electronic City,TotalTransactions,573,transactions,https://abc.com
+2020,Q1,Bangalore,Electronic City,AvgPricePerSqft,9475,INR/sqft,https://abc.com
+2020,Q1,Bangalore,Electronic City,TotalTransactions,581,transactions,https://abc.com
+2020,Q2,Bangalore,Electronic City,AvgPricePerSqft,9608,INR/sqft,https://abc.com
+2020,Q2,Bangalore,Electronic City,TotalTransactions,590,transactions,https://abc.com
+2020,Q3,Bangalore,Electronic City,AvgPricePerSqft,9741,INR/sqft,https://abc.com
+2020,Q3,Bangalore,Electronic City,TotalTransactions,598,transactions,https://abc.com
+2020,Q4,Bangalore,Electronic City,AvgPricePerSqft,9873,INR/sqft,https://abc.com
+2020,Q4,Bangalore,Electronic City,TotalTransactions,606,transactions,https://abc.com
+2021,Q1,Bangalore,Electronic City,AvgPricePerSqft,10006,INR/sqft,https://abc.com
+2021,Q1,Bangalore,Electronic City,TotalTransactions,615,transactions,https://abc.com
+2021,Q2,Bangalore,Electronic City,AvgPricePerSqft,10139,INR/sqft,https://abc.com
+2021,Q2,Bangalore,Electronic City,TotalTransactions,623,transactions,https://abc.com
+2021,Q3,Bangalore,Electronic City,AvgPricePerSqft,10272,INR/sqft,https://abc.com
+2021,Q3,Bangalore,Electronic City,TotalTransactions,631,transactions,https://abc.com
+2021,Q4,Bangalore,Electronic City,AvgPricePerSqft,10405,INR/sqft,https://abc.com
+2021,Q4,Bangalore,Electronic City,TotalTransactions,640,transactions,https://abc.com
+2022,Q1,Bangalore,Electronic City,AvgPricePerSqft,10538,INR/sqft,https://abc.com
+2022,Q1,Bangalore,Electronic City,TotalTransactions,648,transactions,https://abc.com
+2022,Q2,Bangalore,Electronic City,AvgPricePerSqft,10671,INR/sqft,https://abc.com
+2022,Q2,Bangalore,Electronic City,TotalTransactions,656,transactions,https://abc.com
+2022,Q3,Bangalore,Electronic City,AvgPricePerSqft,10804,INR/sqft,https://abc.com
+2022,Q3,Bangalore,Electronic City,TotalTransactions,665,transactions,https://abc.com
+2022,Q4,Bangalore,Electronic City,AvgPricePerSqft,10937,INR/sqft,https://abc.com
+2022,Q4,Bangalore,Electronic City,TotalTransactions,673,transactions,https://abc.com
+2023,Q1,Bangalore,Electronic City,AvgPricePerSqft,11070,INR/sqft,https://abc.com
+2023,Q1,Bangalore,Electronic City,TotalTransactions,682,transactions,https://abc.com
+2023,Q2,Bangalore,Electronic City,AvgPricePerSqft,11203,INR/sqft,https://abc.com
+2023,Q2,Bangalore,Electronic City,TotalTransactions,690,transactions,https://abc.com
+2023,Q3,Bangalore,Electronic City,AvgPricePerSqft,11335,INR/sqft,https://abc.com
+2023,Q3,Bangalore,Electronic City,TotalTransactions,698,transactions,https://abc.com
+2023,Q4,Bangalore,Electronic City,AvgPricePerSqft,11468,INR/sqft,https://abc.com
+2023,Q4,Bangalore,Electronic City,TotalTransactions,707,transactions,https://abc.com
+2024,Q1,Bangalore,Electronic City,AvgPricePerSqft,11601,INR/sqft,https://abc.com
+2024,Q1,Bangalore,Electronic City,TotalTransactions,715,transactions,https://abc.com
+2024,Q2,Bangalore,Electronic City,AvgPricePerSqft,11734,INR/sqft,https://abc.com
+2024,Q2,Bangalore,Electronic City,TotalTransactions,723,transactions,https://abc.com
+2024,Q3,Bangalore,Electronic City,AvgPricePerSqft,11867,INR/sqft,https://abc.com
+2024,Q3,Bangalore,Electronic City,TotalTransactions,732,transactions,https://abc.com
+2024,Q4,Bangalore,Electronic City,AvgPricePerSqft,12000,INR/sqft,https://abc.com
+2024,Q4,Bangalore,Electronic City,TotalTransactions,740,transactions,https://abc.com
