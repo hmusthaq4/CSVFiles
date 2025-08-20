@@ -1,0 +1,15 @@
+year,quarter,city,locality,metric,value,unit,source_url
+2010,2010Q1,Bangalore,,city_hpi_index,100,index (2010-11 Q1=100),https://dataful.in/datasets/17611/
+2010,2010Q1,Chennai,,city_hpi_index,100,index (2010-11 Q1=100),https://dataful.in/datasets/17611/
+2024,2024Q4,Bangalore,,city_hpi_index,375.51,index (2010-11=100),https://dataful.in/datasets/17611/
+2024,2024Q4,Chennai,,city_hpi_index,320.75,index (2010-11=100),https://dataful.in/datasets/17611/
+2025,2025Q2,Bangalore,Whitefield,avg_price_psf,12439,INR/sqft,https://www.magicbricks.com/Property-Rates-Trends/Multistorey-Apartment-rates-Whitefield-in-Bangalore
+2025,2025Q2,Bangalore,Indiranagar,avg_price_psf,18914,INR/sqft,https://www.magicbricks.com/Property-Rates-Trends/Multistorey-Apartment-rates-Indiranagar-in-Bangalore
+2025,2025Q2,Bangalore,Koramangala,avg_price_psf,14858,INR/sqft,https://www.magicbricks.com/Property-Rates-Trends/Multistorey-Apartment-rates-Koramangala-in-Bangalore
+2025,2025Q2,Bangalore,HSR Layout,avg_price_psf,9221,INR/sqft,https://www.magicbricks.com/Property-Rates-Trends/Multistorey-Apartment-rates-HSR-Layout-in-Bangalore
+2025,2025Q2,Bangalore,Jayanagar,avg_price_psf,13604,INR/sqft,https://www.magicbricks.com/Property-Rates-Trends/Multistorey-Apartment-rates-Jayanagar-in-Bangalore
+2025,2025Q2,Chennai,Adyar,avg_price_psf,16913,INR/sqft,https://www.magicbricks.com/Property-Rates-Trends/Multistorey-Apartment-rates-Adyar-in-Chennai
+2025,2025Q2,Chennai,Velachery,avg_price_psf,9909,INR/sqft,https://www.magicbricks.com/Property-Rates-Trends/Multistorey-Apartment-rates-Velachery-in-Chennai
+2025,2025Q2,Chennai,Anna Nagar West,avg_price_psf,14454,INR/sqft,https://www.magicbricks.com/Property-Rates-Trends/Multistorey-Apartment-rates-Anna-Nagar-West-in-Chennai
+2025,2025Q2,Chennai,Porur,avg_price_psf,7484,INR/sqft,https://www.magicbricks.com/Property-Rates-Trends/Multistorey-Apartment-rates-Porur-in-Chennai
+2025,2025Q2,Chennai,Pallikaranai,avg_price_psf,7393,INR/sqft,https://www.magicbricks.com/Property-Rates-Trends/Multistorey-Apartment-rates-Pallikaranai-in-Chennai
