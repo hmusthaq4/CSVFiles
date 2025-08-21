@@ -1562,7 +1562,7 @@ Bangalore,Mysore Road,1,1,1,9,acept,furnished,1194,5700,57,75,7026
 Bangalore,Bellandur,3,3,2,11,acept,not furnished,3900,12000,1227,153,17280
 Bangalore,Electronics City Phase 1,4,4,3,2,acept,not furnished,7500,33000,0,420,40920
 Bangalore,Thanisandra,2,2,1,-,acept,not furnished,0,6900,276,105,7281
-Bangalore,"Hoodi Circle, ",4,3,4,8,acept,not furnished,6900,15000,0,192,22092
+Bangalore,Hoodi Circle, ,4,3,4,8,acept,not furnished,6900,15000,0,192,22092
 Bangalore,Yelachenahalli,3,5,8,-,acept,not furnished,0,30000,11475,453,41940
 Bangalore,Kasavanhalli,2,2,2,9,acept,not furnished,3270,6900,327,90,10587
 Bangalore,Kannamangala,1,1,0,-,acept,not furnished,0,5160,0,66,5226
@@ -1899,7 +1899,7 @@ Bangalore,Motappa Layout,5,6,6,-,acept,not furnished,0,22500,3903,339,26742
 Bangalore,Electronic City,3,1,0,-,acept,furnished,2610,7950,0,102,10662
 Bangalore,Thanisandra,3,4,3,5,acept,furnished,9747,16500,2529,210,28986
 Bangalore,Sarjapur,1,1,0,4,not acept,furnished,450,9426,201,120,10197
-Bangalore,"Sarjapur Road, ",3,3,1,5,not acept,furnished,3534,15600,639,198,19971
+Bangalore,Sarjapur Road, ,3,3,1,5,not acept,furnished,3534,15600,639,198,19971
 Chennai,West Tambaram,1,2,1,12,acept,not furnished,1173,8883,333,114,10503
 Bangalore,Hennur Road,3,2,1,4,acept,not furnished,2700,6198,276,81,9255
 Bangalore,Balagere,5,5,6,-,acept,not furnished,0,28500,4035,429,32970
@@ -2963,7 +2963,7 @@ Chennai,Kottivakkam,2,1,1,-,acept,furnished,1020,3150,141,42,4353
 Bangalore,Raja Rajeshwari Nagar,1,1,1,1,acept,not furnished,0,2931,90,39,3060
 Bangalore,Electronic City,2,3,1,-,not acept,not furnished,0,4500,351,69,4920
 Bangalore,Chandapura,2,2,2,6,acept,not furnished,2151,6000,0,78,8229
-Bangalore,"Hoodi Circle, ",4,4,5,21,acept,furnished,8940,42000,5502,534,56970
+Bangalore,Hoodi Circle, ,4,4,5,21,acept,furnished,8940,42000,5502,534,56970
 Bangalore,Banashankari Stage III,3,3,2,17,not acept,furnished,5325,21000,1263,267,27855
 Chennai,Selaiyur,3,2,2,6,not acept,not furnished,2436,4500,612,60,7608
 Bangalore,Gottigere,1,1,0,6,acept,furnished,900,18000,51,231,19182
@@ -3385,7 +3385,7 @@ Bangalore,9th Phase JP Nagar,1,1,0,6,acept,not furnished,900,4800,180,63,5943
 Bangalore,Yelahanka,1,1,1,12,acept,not furnished,900,10410,210,132,11652
 Bangalore,Bisuvanahalli,4,5,5,-,acept,not furnished,0,32610,4251,492,37350
 Bangalore,Kumaraswami Layout,3,2,1,9,acept,furnished,3246,18900,672,240,23058
-Bangalore,"Sarjapur Road, ",2,2,1,3,acept,furnished,3000,45000,750,573,49320
+Bangalore,Sarjapur Road, ,2,2,1,3,acept,furnished,3000,45000,750,573,49320
 Bangalore,Panathur,2,2,1,6,not acept,furnished,2550,9000,213,117,11880
 Bangalore,Yelahanka,1,1,1,5,acept,not furnished,1536,6300,39,81,7956
 Bangalore,7th Phase JP Nagar,1,1,1,8,acept,not furnished,2082,5400,516,69,8067
@@ -4734,7 +4734,7 @@ Bangalore,Hosa Road,1,1,0,1,not acept,not furnished,0,3150,252,42,3444
 Chennai,Annanagar,4,5,4,-,acept,not furnished,1800,21675,1752,327,25554
 Bangalore,TC Palaya,1,1,1,11,not acept,furnished,5040,7500,474,96,13110
 Bangalore,Hegde Nagar,3,2,1,12,acept,not furnished,3366,9150,693,117,13326
-Bangalore,"Sarjapur Road, ",4,3,3,13,not acept,not furnished,4821,14100,2469,180,21570
+Bangalore,Sarjapur Road, ,4,3,3,13,not acept,not furnished,4821,14100,2469,180,21570
 Bangalore,Vijayanagar,2,1,1,8,acept,not furnished,1713,5400,66,69,7248
 Bangalore,Anand Nagar,7,10,4,-,acept,furnished,0,45000,15000,678,60690
 Bangalore,Varthur,2,1,1,3,acept,not furnished,1050,5400,165,69,6684
@@ -5578,7 +5578,7 @@ Bangalore,Singasandra,1,1,1,16,acept,furnished,2364,7161,51,93,9669
 Bangalore,Doddathoguru,1,2,1,3,not acept,furnished,3186,6300,81,81,9648
 Bangalore,Sarjapur  Road,3,1,1,1,acept,not furnished,3240,6000,201,78,9519
 Bangalore,Mico Layout,3,5,6,-,acept,furnished,0,39000,1500,588,41100
-Bangalore,"Off Sarjapur Road, ",3,6,6,-,acept,not furnished,0,14400,1410,219,16029
+Bangalore,Off Sarjapur Road, ,3,6,6,-,acept,not furnished,0,14400,1410,219,16029
 Bangalore,Hoodi,3,3,2,2,acept,not furnished,3900,8400,876,108,13284
 Bangalore,Rachenahalli,2,3,2,-,not acept,not furnished,150,6000,0,93,6243
 Bangalore,Thigalarapalya,3,5,4,6,acept,furnished,9903,35700,2880,453,48930
